@@ -1,3 +1,13 @@
+<template>
+  <div>
+    <h1>Divinity Original Sin 2 - crafting recipes</h1>
+  </div>
+  <div v-if="loading">Loading...</div>
+  <div v-else>
+    <Search v-model="searchTerm" v-on:update:modelValue="handleSearch" />
+    <RecipeList :recipes="filteredData"/>
+  </div>
+</template>
 <script>
 import fetchData from "./server.js";
 import RecipeList from './components/RecipeList.vue'
@@ -24,10 +34,11 @@ export default {
       this.loading = false
     },
     filterData(searchTerm) {
-      this.filteredData = this.data.filter(recipe => recipe.name.toLowerCase().includes(searchTerm.toLowerCase())
+      const term = searchTerm.toLowerCase()
 
-          // || recipe.country.toLowerCase().includes(searchTerm.toLowerCase()) ||
-          // recipe.sport.toLowerCase().includes(searchTerm.toLowerCase())
+      this.filteredData = this.data.filter(recipe =>
+          recipe.result.toLowerCase().includes(term) ||
+          recipe.ingredients.find(ingredient => ingredient.toLowerCase().includes(term))
       )
     },
     handleSearch() {
@@ -37,22 +48,9 @@ export default {
   },
   mounted() {
     this.getData()
-
   }
 }
 </script>
 
-<template>
-  <div>
-    <h1>Divinity Original Sin 2 - crafting recipes</h1>
-  </div>
-  <div v-if="loading">Loading...</div>
-  <div v-else>
-    <Search v-model="searchTerm" v-on:update:modelValue="handleSearch" />
-    <RecipeList :recipes="filteredData"/>
-  </div>
-</template>
-
 <style scoped>
-
 </style>
