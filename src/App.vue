@@ -1,12 +1,15 @@
 <template>
-  <div>
-    <h1>Divinity Original Sin 2 - crafting recipes</h1>
-  </div>
-  <div v-if="loading">Loading...</div>
-  <div v-else>
-    <Search v-model="searchTerm" v-on:update:modelValue="handleSearch" />
-    <RecipeList :recipes="filteredData"/>
-  </div>
+  <header>
+    <h1>Divinity Original Sin 2</h1>
+    <h2>Crafting recipes</h2>
+  </header>
+  <main>
+    <div v-if="loading">Loading...</div>
+    <template v-else>
+      <Search v-model="searchTerm" v-on:update:modelValue="handleSearch" />
+      <RecipeList :recipes="filteredData"/>
+    </template>
+  </main>
 </template>
 <script>
 import fetchData from "./server.js";
@@ -53,4 +56,9 @@ export default {
 </script>
 
 <style scoped>
+main {
+  max-width:  1200px;
+  width: 100%;
+  margin: 0 auto;
+}
 </style>

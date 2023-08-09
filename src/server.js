@@ -5,8 +5,8 @@ async function fetchData() {
             'content-type': 'application/json'
         }
     });
-    const recipes = await res.json()
-
+    let recipes = await res.json()
+    recipes = recipes.filter((recipe)=> recipe["Ingredient-1"] !=="N/A")
    // reformat result
     return recipes.map((recipe) => {
 

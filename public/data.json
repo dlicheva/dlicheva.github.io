@@ -366,7 +366,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "Immunity to: Charmed ♦ Terrified ♦ Silenced ♦ Blinded ♦ Cursed ♦ Taunted ♦ Sleeping \n Duration 4 turn(s)"
+    "Description": "Immunity to: Charmed ♦ Terrified ♦ Silenced ♦ Blinded ♦ Cursed ♦ Taunted ♦ Sleeping   Duration 4 turn(s)"
   },
   {
     "Result": "Stoneskin Potion",
@@ -375,7 +375,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "184 Physical Armour (+5% per Geomancer level)\n -50% Movement Speed\nImmunity to: Burning ♦ Stunned ♦ Poisoned ♦ Bleeding ♦ Petrified ♦ Shocked \nDuration 2 turn(s)"
+    "Description": "184 Physical Armour (+5% per Geomancer level)  -50% Movement Speed Immunity to: Burning ♦ Stunned ♦ Poisoned ♦ Bleeding ♦ Petrified ♦ Shocked  Duration 2 turn(s)"
   },
   {
     "Result": "Potion of Jellyfish Skin",
@@ -384,7 +384,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "Reflect 20% of melee damage taken as air damage.\nInflict Stunned on contact\nDuration 3 turn(s)"
+    "Description": "Reflect 20% of melee damage taken as air damage. Inflict Stunned on contact Duration 3 turn(s)"
   },
   {
     "Result": "Attar of the Blood Rose",
@@ -393,7 +393,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "1 Strength\n1 Finesse\n1 Intelligence\n1 Constitution\n1 Memory\n1 Wits\nDuration: Until Death"
+    "Description": "1 Strength 1 Finesse 1 Intelligence 1 Constitution 1 Memory 1 Wits Duration: Until Death"
   },
   {
     "Result": "Minor Strength Potion",
@@ -537,7 +537,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "53-59 Poison Damage,\nSet Poisoned for 2 turns"
+    "Description": "53-59 Poison Damage, Set Poisoned for 2 turns"
   },
   {
     "Result": "Small Poison Bottle",
@@ -546,7 +546,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "53-59 Poison Damage,\nSet Poisoned for 2 turns"
+    "Description": "53-59 Poison Damage, Set Poisoned for 2 turns"
   },
   {
     "Result": "Medium Poison Bottle",
@@ -555,7 +555,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "110-122 Poison Damage,\nSet Poisoned for 2 turns"
+    "Description": "110-122 Poison Damage, Set Poisoned for 2 turns"
   },
   {
     "Result": "Medium Poison Bottle",
@@ -564,7 +564,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "110-122 Poison Damage,\nSet Poisoned for 2 turns"
+    "Description": "110-122 Poison Damage, Set Poisoned for 2 turns"
   },
   {
     "Result": "Large Poison Bottle",
@@ -573,7 +573,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "213-235 Poison Damage,\nSet Poisoned for 3 turns"
+    "Description": "213-235 Poison Damage, Set Poisoned for 3 turns"
   },
   {
     "Result": "Large Poison Bottle",
@@ -582,7 +582,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "213-235 Poison Damage,\nSet Poisoned for 3 turns"
+    "Description": "213-235 Poison Damage, Set Poisoned for 3 turns"
   },
   {
     "Result": "Huge Poison Vial",
@@ -591,7 +591,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "475-525 Poison Damage,\nSet Poisoned for 3 turns"
+    "Description": "475-525 Poison Damage, Set Poisoned for 3 turns"
   },
   {
     "Result": "Huge Poison Vial",
@@ -600,7 +600,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "475-525 Poison Damage,\nSet Poisoned for 3 turns"
+    "Description": "475-525 Poison Damage, Set Poisoned for 3 turns"
   },
   {
     "Result": "Giant Poison Vial",
@@ -609,7 +609,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "889-983 Poison Damage,\nSet Poisoned for 3 turns"
+    "Description": "889-983 Poison Damage, Set Poisoned for 3 turns"
   },
   {
     "Result": "Giant Poison Vial",
@@ -618,7 +618,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "889-983 Poison Damage,\nSet Poisoned for 3 turns"
+    "Description": "889-983 Poison Damage, Set Poisoned for 3 turns"
   },
   {
     "Result": "Void-Enhanced Poison",
@@ -627,7 +627,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "13-13 Poison,\nSet Poisoned for 5 turn(s)."
+    "Description": "13-13 Poison, Set Poisoned for 5 turn(s)."
   },
   {
     "Result": "Poison Elixir",
@@ -645,7 +645,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "x - x Poison,\nSet Poison for 3 turns"
+    "Description": "x - x Poison, Set Poison for 3 turns"
   },
   {
     "Result": "Alertness Herbmix",
@@ -654,7 +654,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "Use in Dreamer Pipe (Black Bull Undertavern)\nWits +6, duration 50 turns"
+    "Description": "Use in Dreamer Pipe (Black Bull Undertavern) Wits +6, duration 50 turns"
   },
   {
     "Result": "Potent Alertness Herbmix",
@@ -663,7 +663,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "Use in Dreamer Pipe (Black Bull Undertavern)\nWits +6, duration 100 turns"
+    "Description": "Use in Dreamer Pipe (Black Bull Undertavern) Wits +6, duration 100 turns"
   },
   {
     "Result": "Enlightenment Herbmix",
@@ -672,7 +672,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "Use in Dreamer Pipe (Black Bull Undertavern) \nIntelligence +6, duration 50 turns"
+    "Description": "Use in Dreamer Pipe (Black Bull Undertavern)  Intelligence +6, duration 50 turns"
   },
   {
     "Result": "Potent Enlightenment Herbmix",
@@ -681,7 +681,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "Use in Dreamer Pipe (Black Bull Undertavern)\nIntelligence +6, duration 100 turns"
+    "Description": "Use in Dreamer Pipe (Black Bull Undertavern) Intelligence +6, duration 100 turns"
   },
   {
     "Result": "Ferocity Herbmix",
@@ -690,7 +690,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "Use in Dreamer Pipe (Black Bull Undertavern) \nStart AP: +2, AP recovery: +2, duration 50 turns"
+    "Description": "Use in Dreamer Pipe (Black Bull Undertavern)  Start AP: +2, AP recovery: +2, duration 50 turns"
   },
   {
     "Result": "Potent Ferocity Herbmix",
@@ -699,7 +699,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "Use in Dreamer Pipe (Black Bull Undertavern) \nStart AP: +2, AP recovery: +2, duration 100 turns"
+    "Description": "Use in Dreamer Pipe (Black Bull Undertavern)  Start AP: +2, AP recovery: +2, duration 100 turns"
   },
   {
     "Result": "Courage Herbmix",
@@ -708,7 +708,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "Use in Dreamer Pipe (Black Bull Undertavern) \nConstitution +6, duration 50 turns"
+    "Description": "Use in Dreamer Pipe (Black Bull Undertavern)  Constitution +6, duration 50 turns"
   },
   {
     "Result": "Giant Magic Armour Potion",
@@ -2193,7 +2193,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "Creates a Blessed Water surface in a 3m radius\nSet Wet for 2 turns"
+    "Description": "Creates a Blessed Water surface in a 3m radius Set Wet for 2 turns"
   },
   {
     "Result": "Bottle Filled with Oil",
@@ -2220,7 +2220,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "125-153 Poison Damage (+5% per Geomancer level)\nSet Diseased for 4 turns"
+    "Description": "125-153 Poison Damage (+5% per Geomancer level) Set Diseased for 4 turns"
   },
   {
     "Result": "Cluster Grenade",
@@ -2229,7 +2229,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "Fires 6 projectiles in a 3m radius\n189-209 Fire Damage (+5% per Pyrokinetic level) per projectile in a 1m radius\nSet Burning for 2 turns\nCreates Fire surface"
+    "Description": "Fires 6 projectiles in a 3m radius 189-209 Fire Damage (+5% per Pyrokinetic level) per projectile in a 1m radius Set Burning for 2 turns Creates Fire surface"
   },
   {
     "Result": "Cursed Cluster Grenade",
@@ -2238,7 +2238,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "Fires 6 projectiles in a 3m radius\n203-275 Fire Damage (+5% per Pyrokinetic level) per projectile in a 1m radius\nSet Burning for 2 turns\nCreates Cursed Fire surface"
+    "Description": "Fires 6 projectiles in a 3m radius 203-275 Fire Damage (+5% per Pyrokinetic level) per projectile in a 1m radius Set Burning for 2 turns Creates Cursed Fire surface"
   },
   {
     "Result": "Cursed Firestorm Grenade",
@@ -2247,7 +2247,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "203-275 Fire Damage (+5% per Pyrokinetic level) in a 2m radius\nSet Burning for 3 turns\nCreates a Cursed Fire surface"
+    "Description": "203-275 Fire Damage (+5% per Pyrokinetic level) in a 2m radius Set Burning for 3 turns Creates a Cursed Fire surface"
   },
   {
     "Result": "Cursed Poison Flask",
@@ -2256,7 +2256,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "169-229 Poison Damage (+5% per Geomancer level) in a 2m radius\nSet Poisoned for 2 turns\nCreates a Cursed Poison surface"
+    "Description": "169-229 Poison Damage (+5% per Geomancer level) in a 2m radius Set Poisoned for 2 turns Creates a Cursed Poison surface"
   },
   {
     "Result": "Firestorm Grenade",
@@ -2265,7 +2265,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "125-153 Fire Damage (+5% per Pyrokinetic level) in a 2m radius\nSet Burning for 3 turns\nCreates a Fire surface"
+    "Description": "125-153 Fire Damage (+5% per Pyrokinetic level) in a 2m radius Set Burning for 3 turns Creates a Fire surface"
   },
   {
     "Result": "Frost Grenade",
@@ -2274,7 +2274,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "125-153 Water Damage (+5% per Hydrosophist level) in a 2m radius\nSet Chilled for 2 turns\nCreates an Ice surface"
+    "Description": "125-153 Water Damage (+5% per Hydrosophist level) in a 2m radius Set Chilled for 2 turns Creates an Ice surface"
   },
   {
     "Result": "Fuse",
@@ -2319,7 +2319,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "132-146 Physical Damage (+5% per Warfare level) in a 4m radius\nSet Bleeding for 3 Turns"
+    "Description": "132-146 Physical Damage (+5% per Warfare level) in a 4m radius Set Bleeding for 3 Turns"
   },
   {
     "Result": "Oil Flask",
@@ -2337,7 +2337,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "Creates a Poison Cloud in a 2m radius\nSet Poisoned for 2 turns"
+    "Description": "Creates a Poison Cloud in a 2m radius Set Poisoned for 2 turns"
   },
   {
     "Result": "Poison Flask",
@@ -2346,7 +2346,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "Creates a Poison surface in a 2m radius\nSet Poisoned for 2 turns"
+    "Description": "Creates a Poison surface in a 2m radius Set Poisoned for 2 turns"
   },
   {
     "Result": "Razzle Dazzle Grenade",
@@ -2382,7 +2382,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "125-153 Air Damage (+5% per Aerotheurge level) in a 4m radius\nSet Shocked for 2 turns"
+    "Description": "125-153 Air Damage (+5% per Aerotheurge level) in a 4m radius Set Shocked for 2 turns"
   },
   {
     "Result": "Tremor Grenade",
@@ -2391,7 +2391,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "125-153 Earth Damage (+5% per Geomancer level) in a 4m radius\nSet Knocked Down for 1 turn"
+    "Description": "125-153 Earth Damage (+5% per Geomancer level) in a 4m radius Set Knocked Down for 1 turn"
   },
   {
     "Result": "Water Balloon",
@@ -2400,7 +2400,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "Creates a Water surface\nSet Wet for 2 turns"
+    "Description": "Creates a Water surface Set Wet for 2 turns"
   },
   {
     "Result": "Arrow",
@@ -2499,7 +2499,7 @@
     "Ingredient-3": "",
     "Ingredient-4": "",
     "Ingredient-5": "",
-    "Description": "Deals 100% Basic Attack Damage as Fire Damage (+5% per Pyrokinetic level) and Set Burning for 1 turn*\n *The tooltip states that this arrow will set Burning for 1 turn, but actually sets Necrofire for 2 turns"
+    "Description": "Deals 100% Basic Attack Damage as Fire Damage (+5% per Pyrokinetic level) and Set Burning for 1 turn*  *The tooltip states that this arrow will set Burning for 1 turn, but actually sets Necrofire for 2 turns"
   },
   {
     "Result": "Cursed Fire Arrowhead",
