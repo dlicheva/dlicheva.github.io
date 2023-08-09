@@ -15,7 +15,7 @@ export default {
   <input
       v-bind="$attrs"
       :value="modelValue"
-      placeholder="Search..."
+      placeholder="Search crafting…"
       @input="$emit('update:modelValue', $event.target.value)"
   />
 </template>

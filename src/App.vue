@@ -1,6 +1,10 @@
 <template>
   <header>
     <h1>Divinity Original Sin 2</h1>
+    <nav>
+      <a href="https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/">Steam</a>
+      <a href="https://divinityoriginalsin2.wiki.fextralife.com/Divinity+Original+Sin+2+Wiki">Wiki</a>
+    </nav>
     <h2>Crafting recipes</h2>
   </header>
   <main>
@@ -10,6 +14,9 @@
       <RecipeList :recipes="filteredData"/>
     </template>
   </main>
+  <footer>
+    Made by dlicheva in August 2023
+  </footer>
 </template>
 <script>
 import fetchData from "./server.js";
