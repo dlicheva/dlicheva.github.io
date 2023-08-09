@@ -30,6 +30,7 @@ input {
   max-width: 400px;
   margin-bottom: 32px;
   width: calc(100% - 32px);
+  font-size: 16px;
 }
 label {
   font-size: 0;
