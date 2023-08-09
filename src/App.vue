@@ -57,8 +57,9 @@ export default {
 
 <style scoped>
 main {
-  max-width:  1200px;
-  width: 100%;
+  max-width: 1200px;
+  width: calc(100% - 32px);
   margin: 0 auto;
+  padding: 0 16px;
 }
 </style>

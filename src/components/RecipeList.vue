@@ -27,7 +27,6 @@ export default {
 .RecipeList {
   display: grid;
   grid-gap: 16px;
-  row-gap: 32px;
   width: 100%;
 }
 .recipe {
@@ -63,11 +62,13 @@ h3 {
 @media only screen and (min-width: 600px) {
   .RecipeList {
     grid-template-columns: repeat(2, 1fr);
+    row-gap: 32px;
   }
 }
 @media only screen and (min-width: 1200px) {
   .RecipeList {
     grid-template-columns: repeat(3, 1fr);
+    row-gap: 32px;
   }
 }
 </style>
