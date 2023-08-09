@@ -1,0 +1,4835 @@
+[
+  {
+    "Result": "Minor Healing Potion",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Penny Bun Mushroom",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 30 Vitality"
+  },
+  {
+    "Result": "Medium Healing Potion",
+    "Ingredient-1": "Minor Healing Potion",
+    "Ingredient-2": "Minor Healing Potion or Augmentor (Any Quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 120 Vitality"
+  },
+  {
+    "Result": "Healing Potion",
+    "Ingredient-1": "Medium Healing Potion",
+    "Ingredient-2": "Medium Healing Potion or Augmentor (Any Quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 290 Vitality"
+  },
+  {
+    "Result": "Huge Healing Potion",
+    "Ingredient-1": "Healing Potion",
+    "Ingredient-2": "Healing Potion or Augmentor (High/Ultimate)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 650 Vitality"
+  },
+  {
+    "Result": "Giant Healing Potion",
+    "Ingredient-1": "Huge Healing Potion",
+    "Ingredient-2": "Huge Healing Potion or  Augmentor (Ultimate)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 1220 Vitality"
+  },
+  {
+    "Result": "Healing Elixir",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Yarrow Flower",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals +70 Vitality. Removes certain status effects (negative and positive), Set Healing Elixir"
+  },
+  {
+    "Result": "Physical Armor Potion",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Amadouvier",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "26 Physical Armor (+5% per Geomancer level), 5 Turn Duration"
+  },
+  {
+    "Result": "Medium Physical Armor Potion",
+    "Ingredient-1": "Physical Armor Potion",
+    "Ingredient-2": "Physical Armor Potion or Augmentor (Any Quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "92 Physical Armor (+5% per Geomancer level), 5 Turn Duration"
+  },
+  {
+    "Result": "Large Physical Armor Potion",
+    "Ingredient-1": "Medium Physical Armor Potion",
+    "Ingredient-2": "Medium Physical Armor Potion or  Augmentor (High/Ultimate Quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "221 Physical Armor (+5% per Geomancer level), 5 Turn Duration"
+  },
+  {
+    "Result": "Huge Physical Armour Potion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "431 Physical Armour (+5% per Geomancer level), 5 Turn Duration"
+  },
+  {
+    "Result": "Small Magic Armor Potion",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Whisperwood",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "26 Magic Armor (+5% per Hydrosophist level), 5 Turn Duration"
+  },
+  {
+    "Result": "Medium Magic Armor Potion",
+    "Ingredient-1": "Small Magic Armor Potion",
+    "Ingredient-2": "Small Magic Armor Potion or Augmentor (Any Quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "92 Magic Armor (+5% per Hydrosophist level), 5 Turn Duration"
+  },
+  {
+    "Result": "Large Magic Armor Potion",
+    "Ingredient-1": "Medium Magic Armor Potion",
+    "Ingredient-2": "Medium Magic Armor Potion or  Augmentor (High/Ultimate Quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "221 Magic Armor (+5% per Hydrosophist level), 5 Turn Duration"
+  },
+  {
+    "Result": "Huge Magic Armour Potion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "431 Magic Armour (+5% per Hydrosophist level), 5 Turn Duration"
+  },
+  {
+    "Result": "Fire Resistance Potion",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Guepinia Mushroom",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "15% Fire Resistance for 3 turns"
+  },
+  {
+    "Result": "Medium Fire Resistance Potion",
+    "Ingredient-1": "Fire Resistance Potion",
+    "Ingredient-2": "Fire Resistance Potion or  Augmentor (High/Ultimate Quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "50% Fire Resistance for 3 turns"
+  },
+  {
+    "Result": "Large Fire Resistance Potion",
+    "Ingredient-1": "Medium Fire Resistance Potion",
+    "Ingredient-2": "Medium Fire Resistance Potion or  Augmentor (High/Ultimate Quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "75% Fire Resistance for 2 turns"
+  },
+  {
+    "Result": "Huge Fire Resistance Potion",
+    "Ingredient-1": "Large Fire Resistance Potion",
+    "Ingredient-2": "Large Fire Resistance Potion or  Augmentor (Ultimate)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "90% Fire Resistance for 2 turns"
+  },
+  {
+    "Result": "Air Resistance Potion",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Jellyroom",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "15% Air Resistance for 3 turns"
+  },
+  {
+    "Result": "Medium Air Resistance Potion",
+    "Ingredient-1": "Small Air Resistance Potion",
+    "Ingredient-2": "Small Air Resistance Potion or Augmentor (High/Ultimate Quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "50% Air Resistance for 3 turns"
+  },
+  {
+    "Result": "Large Air Resistance Potion",
+    "Ingredient-1": "Medium Air Resistance Potion",
+    "Ingredient-2": "Medium Air Resistance Potion or Augmentor (High/Ultimate Quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "75% Air Resistance for 2 turns"
+  },
+  {
+    "Result": "Huge Air Resistance Potion",
+    "Ingredient-1": "Large Air Resistance Potion",
+    "Ingredient-2": "Large Air Resistance Potion or Augmentor (Ultimate)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "90% Air Resistance for 2 turns"
+  },
+  {
+    "Result": "Earth Resistance Potion",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Earth Tongue Mushroom",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "15% Earth Resistance for 3 turns"
+  },
+  {
+    "Result": "Medium Earth Resistance Potion",
+    "Ingredient-1": "Earth Resistance Potion",
+    "Ingredient-2": "Earth Resistance Potion or Augmentor (High/Ultimate Quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "50% Earth Resistance for 3 turns"
+  },
+  {
+    "Result": "Large Earth Resistance Potion",
+    "Ingredient-1": "Medium Earth Resistance Potion",
+    "Ingredient-2": "Medium Earth Resistance Potion or Augmentor (High/Ultimate Quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "75% Earth Resistance for 2 turns"
+  },
+  {
+    "Result": "Huge Earth Resistance Potion",
+    "Ingredient-1": "Large Earth Resistance Potion",
+    "Ingredient-2": "Large Earth Resistance Potion or Augmentor (Ultimate)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "90% Earth Resistance for 2 turns"
+  },
+  {
+    "Result": "Water Resistance Potion",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Bluegill Mushroom",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "15% Water Resistance for 3 turns"
+  },
+  {
+    "Result": "Medium Water Resistance Potion",
+    "Ingredient-1": "Water Resistance Potion",
+    "Ingredient-2": "Water Resistance Potion or Augmentor (High/Ultimate Quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "50% Water Resistance for 3 turns"
+  },
+  {
+    "Result": "Large Water Resistance Potion",
+    "Ingredient-1": "Medium Water Resistance Potion",
+    "Ingredient-2": "Medium Water Resistance Potion or Augmentor (High/Ultimate Quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "75% Water Resistance for 2 turns"
+  },
+  {
+    "Result": "Huge Water Resistance Potion",
+    "Ingredient-1": "Large Water Resistance Potion",
+    "Ingredient-2": "Large Water Resistance Potion or Augmentor (Ultimate)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "90% Water Resistance for 2 turns"
+  },
+  {
+    "Result": "Poison Resistance Potion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "15% Poison Resistance for 3 turns"
+  },
+  {
+    "Result": "Medium Poison Resistance Potion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "50% Poison Resistance for 3 turns"
+  },
+  {
+    "Result": "Large Poison Resistance Potion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "75% Poison Resistance for 2 turns"
+  },
+  {
+    "Result": "Huge Poison Resistance Potion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "90% Poison Resistance for 2 turns"
+  },
+  {
+    "Result": "Minor Resist All Potion",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Trumpet Of Death",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "15% resistance to all elements for 3 turns"
+  },
+  {
+    "Result": "Medium Resist All Potion",
+    "Ingredient-1": "Minor Resist All Potion",
+    "Ingredient-2": "Minor Resist All Potion or Augmentor (High/Ultimate Quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "50% resistance to all elements for 3 turns"
+  },
+  {
+    "Result": "Large Resist All Potion",
+    "Ingredient-1": "Medium Resist All Potion",
+    "Ingredient-2": "Medium Resist All Potion or Augmentor (Ultimate)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "75% resistance to all elements for 2 turns"
+  },
+  {
+    "Result": "Invisibility Potion",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Chanterelle",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Set Invisible for 5 turns"
+  },
+  {
+    "Result": "Medium Invisibility Potion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Set Invisible for 10 turns"
+  },
+  {
+    "Result": "Potion of Nimble Tumble",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "any Water Essence",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "50% Dodging for 2 turns"
+  },
+  {
+    "Result": "Potion of Strong Will",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "any Fire Essence",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Immunity to: Charmed ♦ Terrified ♦ Silenced ♦ Blinded ♦ Cursed ♦ Taunted ♦ Sleeping   Duration 4 turn(s)"
+  },
+  {
+    "Result": "Stoneskin Potion",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "any Earth Essence",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "184 Physical Armour (+5% per Geomancer level)  -50% Movement Speed Immunity to: Burning ♦ Stunned ♦ Poisoned ♦ Bleeding ♦ Petrified ♦ Shocked  Duration 2 turn(s)"
+  },
+  {
+    "Result": "Potion of Jellyfish Skin",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "any Air Essence",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Reflect 20% of melee damage taken as air damage. Inflict Stunned on contact Duration 3 turn(s)"
+  },
+  {
+    "Result": "Attar of the Blood Rose",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Blood Rose",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "1 Strength 1 Finesse 1 Intelligence 1 Constitution 1 Memory 1 Wits Duration: Until Death"
+  },
+  {
+    "Result": "Minor Strength Potion",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Amethyst Deceiver",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "1 Strength for 3 turns"
+  },
+  {
+    "Result": "Medium Strength Potion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "3 Strength for 3 turns"
+  },
+  {
+    "Result": "Large Strength Potion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "11 Strength for 3 turns"
+  },
+  {
+    "Result": "Minor Intelligence Potion",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Calocera",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "1 Intelligence for 3 turns"
+  },
+  {
+    "Result": "Medium Intelligence Potion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "3 Intelligence for 3 turns"
+  },
+  {
+    "Result": "Large Intelligence Potion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "11 Intelligence for 3 turns"
+  },
+  {
+    "Result": "Minor Finesse Potion",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Boletus",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "1 Finesse for 3 turns"
+  },
+  {
+    "Result": "Medium Finesse Potion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "3 Finesse for 3 turns"
+  },
+  {
+    "Result": "Large Finesse Potion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "11 Finesse for 3 turns"
+  },
+  {
+    "Result": "Minor Wits Potion",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Puffball",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "1 Wits for 3 turns"
+  },
+  {
+    "Result": "Medium Wits Potion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "3 Wits for 3 turns"
+  },
+  {
+    "Result": "Large Wits Potion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "11 Wits for 3 turns"
+  },
+  {
+    "Result": "Minor Constitution Potion",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Farhangite",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "1 Constitution for 3 turns"
+  },
+  {
+    "Result": "Medium Constitution Potion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "3 Constitution for 3 turns"
+  },
+  {
+    "Result": "Large Constitution Potion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "11 Constitution for 3 turns"
+  },
+  {
+    "Result": "Small Poison Bottle",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Fly Agaric Mushroom or Barrel of Ooze",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "53-59 Poison Damage, Set Poisoned for 2 turns"
+  },
+  {
+    "Result": "Small Poison Bottle",
+    "Ingredient-1": "Minor Healing Potion",
+    "Ingredient-2": "Zaikk's Talon",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "53-59 Poison Damage, Set Poisoned for 2 turns"
+  },
+  {
+    "Result": "Medium Poison Bottle",
+    "Ingredient-1": "Small Poison Bottle",
+    "Ingredient-2": "Small Poison Bottle or Augmentor (any quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "110-122 Poison Damage, Set Poisoned for 2 turns"
+  },
+  {
+    "Result": "Medium Poison Bottle",
+    "Ingredient-1": "Medium Healing Potion",
+    "Ingredient-2": "Zaikk's Talon",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "110-122 Poison Damage, Set Poisoned for 2 turns"
+  },
+  {
+    "Result": "Large Poison Bottle",
+    "Ingredient-1": "Medium Poison Bottle",
+    "Ingredient-2": "Medium Poison Bottle or Augmentor (any quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "213-235 Poison Damage, Set Poisoned for 3 turns"
+  },
+  {
+    "Result": "Large Poison Bottle",
+    "Ingredient-1": "Healing Potion",
+    "Ingredient-2": "Zaikk's Talon",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "213-235 Poison Damage, Set Poisoned for 3 turns"
+  },
+  {
+    "Result": "Huge Poison Vial",
+    "Ingredient-1": "Large Poison Bottle",
+    "Ingredient-2": "Large Poison Bottle or Augmentor (High/Ultimate Quality)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "475-525 Poison Damage, Set Poisoned for 3 turns"
+  },
+  {
+    "Result": "Huge Poison Vial",
+    "Ingredient-1": "Huge Healing Potion",
+    "Ingredient-2": "Zaikk's Talon",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "475-525 Poison Damage, Set Poisoned for 3 turns"
+  },
+  {
+    "Result": "Giant Poison Vial",
+    "Ingredient-1": "Huge Poison Bottle",
+    "Ingredient-2": "Huge Poison Bottle or Augmentor (Ultimate)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "889-983 Poison Damage, Set Poisoned for 3 turns"
+  },
+  {
+    "Result": "Giant Poison Vial",
+    "Ingredient-1": "Giant Healing Potion",
+    "Ingredient-2": "Zaikk's Talon",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "889-983 Poison Damage, Set Poisoned for 3 turns"
+  },
+  {
+    "Result": "Void-Enhanced Poison",
+    "Ingredient-1": "Small Poison Bottle",
+    "Ingredient-2": "Void-Touched Livewood Fragments",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "13-13 Poison, Set Poisoned for 5 turn(s)."
+  },
+  {
+    "Result": "Poison Elixir",
+    "Ingredient-1": "Healing Elixir",
+    "Ingredient-2": "Zaikk's Talon",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "57-63 Poison"
+  },
+  {
+    "Result": "Fake Healing Potion",
+    "Ingredient-1": "Any Poison Bottle",
+    "Ingredient-2": "Red Fabric Dye",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "x - x Poison, Set Poison for 3 turns"
+  },
+  {
+    "Result": "Alertness Herbmix",
+    "Ingredient-1": "Puffball",
+    "Ingredient-2": "Drudanae",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Use in Dreamer Pipe (Black Bull Undertavern) Wits +6, duration 50 turns"
+  },
+  {
+    "Result": "Potent Alertness Herbmix",
+    "Ingredient-1": "Void-Tainted Yellow Ridgeback",
+    "Ingredient-2": "Alertness Herbmix",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Use in Dreamer Pipe (Black Bull Undertavern) Wits +6, duration 100 turns"
+  },
+  {
+    "Result": "Enlightenment Herbmix",
+    "Ingredient-1": "Calocera",
+    "Ingredient-2": "Drudanae",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Use in Dreamer Pipe (Black Bull Undertavern)  Intelligence +6, duration 50 turns"
+  },
+  {
+    "Result": "Potent Enlightenment Herbmix",
+    "Ingredient-1": "Enlightenment Herbmix",
+    "Ingredient-2": "Void-Tainted Umber Monkfish",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Use in Dreamer Pipe (Black Bull Undertavern) Intelligence +6, duration 100 turns"
+  },
+  {
+    "Result": "Ferocity Herbmix",
+    "Ingredient-1": "Augmentor",
+    "Ingredient-2": "Drudanae",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Use in Dreamer Pipe (Black Bull Undertavern)  Start AP: +2, AP recovery: +2, duration 50 turns"
+  },
+  {
+    "Result": "Potent Ferocity Herbmix",
+    "Ingredient-1": "Ferocity Herbmix",
+    "Ingredient-2": "Void-Tainted Crimson Bream",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Use in Dreamer Pipe (Black Bull Undertavern)  Start AP: +2, AP recovery: +2, duration 100 turns"
+  },
+  {
+    "Result": "Courage Herbmix",
+    "Ingredient-1": "Farhangite",
+    "Ingredient-2": "Drudanae",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Use in Dreamer Pipe (Black Bull Undertavern)  Constitution +6, duration 50 turns"
+  },
+  {
+    "Result": "Giant Magic Armour Potion",
+    "Ingredient-1": "Large Magic Armour Potion",
+    "Ingredient-2": "Large Magic Armour Potion",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Giant Physical Armour Potion",
+    "Ingredient-1": "Large Physical Armour Potion",
+    "Ingredient-2": "Large Physical Armour Potion",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Potion of Vitality",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Distinctive Wizard's Hat Agaric",
+    "Ingredient-3": "Minor Constitution Potion",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Potion of Focus",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Distinctive Farhangite",
+    "Ingredient-3": "Large Strength Potion",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Potion of Authority",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Distinctive Farhangite",
+    "Ingredient-3": "Large Intelligence Potion",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "2 Persuasion for 3 turns"
+  },
+  {
+    "Result": "Potion of Nimble Fingers",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Distinctive Puffball",
+    "Ingredient-3": "Large Wits Potion",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "2 Thievery for 3 turns"
+  },
+  {
+    "Result": "Potion of Allure",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Distinctive Drudanae",
+    "Ingredient-3": "Large Finesse Potion",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "2 Bartering for 3 turns"
+  },
+  {
+    "Result": "Potion of Power",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Distinctive Wizard's Hat Agaric",
+    "Ingredient-3": "Large Strength Potion",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Small Potion of Shadow",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Distinctive Trumpet of Death",
+    "Ingredient-3": "Medium Invisibility Potion",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "1 Sneaking for 3 turns"
+  },
+  {
+    "Result": "Medium Potion of Shadow",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Distinctive Trumpet of Death",
+    "Ingredient-3": "Medium Finesse Potion",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "2 Sneaking for 3 turns"
+  },
+  {
+    "Result": "Large Potion of Shadow",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Distinctive Trumpet of Death",
+    "Ingredient-3": "Large Finesse Potion",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "3 Sneaking for 3 turns"
+  },
+  {
+    "Result": "Draught of Strength",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Distinctive Wizard's Hat Agaric",
+    "Ingredient-3": "Distinctive Farhangite",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "7 Strength for 3 turns"
+  },
+  {
+    "Result": "Draught of Finesse",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Distinctive Trumpet of Death",
+    "Ingredient-3": "Distinctive Boletus",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "7 Finesse for 3 turns"
+  },
+  {
+    "Result": "Draught of Constitution",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Distinctive Puffball",
+    "Ingredient-3": "Distinctive Drudanae",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "7 Constitution for 3 turns"
+  },
+  {
+    "Result": "Draught of Wits",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Distinctive Trumpet of Death",
+    "Ingredient-3": "Distinctive Amadouvier",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "7 Wits for 3 turns"
+  },
+  {
+    "Result": "Draught of Intelligence",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Distinctive Wizard's Hat Agaric",
+    "Ingredient-3": "Distinctive Whisperwood",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "7 Intelligence for 3 turns"
+  },
+  {
+    "Result": "Draught of Speed",
+    "Ingredient-1": "Empty Potion Bottle",
+    "Ingredient-2": "Distinctive Drudanae",
+    "Ingredient-3": "Air Essence",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "50% Movement Speed for 3 turns"
+  },
+  {
+    "Result": "Ambrosia",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Drunk for 2 turns"
+  },
+  {
+    "Result": "Apple",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 5% Poison Resistance for 3 turns"
+  },
+  {
+    "Result": "Apple Juice",
+    "Ingredient-1": "Cup",
+    "Ingredient-2": "Apple",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 10% Poison Resistance for 6 turns"
+  },
+  {
+    "Result": "Apple Pie",
+    "Ingredient-1": "Oven",
+    "Ingredient-2": "Apple Pie Dough",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 20%, 10% Poison Resistance for 6 turns"
+  },
+  {
+    "Result": "Apple Pie Dough",
+    "Ingredient-1": "Dough",
+    "Ingredient-2": "Apple",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%"
+  },
+  {
+    "Result": "Black Tea",
+    "Ingredient-1": "Teapot",
+    "Ingredient-2": "Black Tea Leaves",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "75% Fire Resistance for 3 turns, 0 AP cost to consume"
+  },
+  {
+    "Result": "Black Tea Leaves",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "50% Fire Resistance for 2 turns, 0 AP cost to consume"
+  },
+  {
+    "Result": "Boiled Potato",
+    "Ingredient-1": "Cooking Station",
+    "Ingredient-2": "Potato",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 1 Constitution for 6 turns"
+  },
+  {
+    "Result": "Bottle of Beer",
+    "Ingredient-1": "Empty Bottle",
+    "Ingredient-2": "Beer Barrel",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 20%, -1 Intelligence for 5 turns; Drunk for 2 turns"
+  },
+  {
+    "Result": "Bottle of Water",
+    "Ingredient-1": "Empty Bottle",
+    "Ingredient-2": "Water",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 5%"
+  },
+  {
+    "Result": "Bottle of Wine",
+    "Ingredient-1": "Empty Bottle",
+    "Ingredient-2": "Wine Barrel",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, Drunk for 2 turns"
+  },
+  {
+    "Result": "Bread",
+    "Ingredient-1": "Oven",
+    "Ingredient-2": "Dough",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heal 10%, 1 Strength for 3 turns"
+  },
+  {
+    "Result": "Carrot",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 4 Wits for 3 turns"
+  },
+  {
+    "Result": "Cheese",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, -1 Finesse and 1 Constitution for 3 turns"
+  },
+  {
+    "Result": "Cheese Bread",
+    "Ingredient-1": "Oven",
+    "Ingredient-2": "Cheese Bread Dough",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heal 10%, 1 Constitution for 6 turns"
+  },
+  {
+    "Result": "Cheese Bread Dough",
+    "Ingredient-1": "Dough",
+    "Ingredient-2": "Cheese",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%"
+  },
+  {
+    "Result": "Chub Fish",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 1 Intelligence for 3 turns"
+  },
+  {
+    "Result": "Cold Fries",
+    "Ingredient-1": "Any Dagger",
+    "Ingredient-2": "Potato",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heal 5%"
+  },
+  {
+    "Result": "Cold Mashed Potatoes",
+    "Ingredient-1": "Any Hammer",
+    "Ingredient-2": "Potato",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heal 5%"
+  },
+  {
+    "Result": "Cooking Station",
+    "Ingredient-1": "Cooking Pot",
+    "Ingredient-2": "Campfire or Bonfire",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Cup of Oil",
+    "Ingredient-1": "Cup",
+    "Ingredient-2": "Any Oil Source",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "-1 Intelligence, -1 Constitution, and -50% Fire Resistance for 6 turns. Set Poisoned for 1 turn."
+  },
+  {
+    "Result": "Cup of Tea",
+    "Ingredient-1": "Cup of Water",
+    "Ingredient-2": "Tea Herbs",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 5%"
+  },
+  {
+    "Result": "Cup of Water",
+    "Ingredient-1": "Cup",
+    "Ingredient-2": "Water",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 5%"
+  },
+  {
+    "Result": "Dinner",
+    "Ingredient-1": "Cooking Station or  Oven",
+    "Ingredient-2": "Any  Raw Fish,  Raw Meat, or Eggs",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 20%, 2 Strength for 6 turns"
+  },
+  {
+    "Result": "Dough",
+    "Ingredient-1": "Flour",
+    "Ingredient-2": "Water or  Milk",
+    "Ingredient-3": "Egg (optional)",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 5%"
+  },
+  {
+    "Result": "Dwarven Stew",
+    "Ingredient-1": "Dinner",
+    "Ingredient-2": "Beer",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 20%, 1 Strength for 6 turns"
+  },
+  {
+    "Result": "Egg",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "1 Constitution for 3 turns"
+  },
+  {
+    "Result": "Elven Stew",
+    "Ingredient-1": "Dinner",
+    "Ingredient-2": "Tomato Sauce",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 20%, 2 Finesse for 6 turns"
+  },
+  {
+    "Result": "Expensive Wine",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 20%, 50% chance of Drunk for 1 turn"
+  },
+  {
+    "Result": "Fancy Bottle of Beer",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 20%, 50% chance of Drunk for 1 turn"
+  },
+  {
+    "Result": "Fish Pie",
+    "Ingredient-1": "Oven",
+    "Ingredient-2": "Fish Pie Dough",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 20%, 2 Intelligence for 6 turns"
+  },
+  {
+    "Result": "Fish Pie Dough",
+    "Ingredient-1": "Dough",
+    "Ingredient-2": "Any Fish",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%"
+  },
+  {
+    "Result": "Flour",
+    "Ingredient-1": "Mortar and Pestle",
+    "Ingredient-2": "Wheat",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Garlic",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "-1 Persuasion, 1 Constitution, Immunity to Diseased and Infected for 3 turns, Smelly for 10 turns"
+  },
+  {
+    "Result": "Glass of Wine",
+    "Ingredient-1": "Cup",
+    "Ingredient-2": "Grapes or  Wine Barrel",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 5%, Drunk for 2 turns"
+  },
+  {
+    "Result": "Grapes",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 5%"
+  },
+  {
+    "Result": "Green Tea",
+    "Ingredient-1": "Teapot",
+    "Ingredient-2": "Green Tea Leaves",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "-2 AP cost for 3 turns, 0 AP cost to consume"
+  },
+  {
+    "Result": "Green Tea Leaves",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "-1 AP cost for 2 turns, 0 AP cost to consume"
+  },
+  {
+    "Result": "Ham",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 1 Strength for 3 turns"
+  },
+  {
+    "Result": "Herring",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 1 Intelligence for 3 turns"
+  },
+  {
+    "Result": "Jar of Honey",
+    "Ingredient-1": "Empty Honey Jar",
+    "Ingredient-2": "Beehive (North of Driftwood)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 20%, 15% Poison Resistance and 2 Intelligence for 6 turns"
+  },
+  {
+    "Result": "Lemon",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "1 Wits for 3 Turns"
+  },
+  {
+    "Result": "Lemonade",
+    "Ingredient-1": "Cup or  Empty Mug",
+    "Ingredient-2": "Lemon",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 5%, 1 Wits for 6 turns"
+  },
+  {
+    "Result": "Mackerel",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 1 Intelligence for 3 turns"
+  },
+  {
+    "Result": "Mashed Potatoes",
+    "Ingredient-1": "Boiled Potato",
+    "Ingredient-2": "Milk",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 2 Strength for 6 turns"
+  },
+  {
+    "Result": "Mashed Potatoes",
+    "Ingredient-1": "Cooking Station or  Oven",
+    "Ingredient-2": "Cold Mashed Potatoes",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 2 Strength for 6 turns"
+  },
+  {
+    "Result": "Meaty Stew",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 1 Strength for 6 turns"
+  },
+  {
+    "Result": "Milk",
+    "Ingredient-1": "Milk Churn",
+    "Ingredient-2": "Cup",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%"
+  },
+  {
+    "Result": "Milk and Honey",
+    "Ingredient-1": "Jar of Honey",
+    "Ingredient-2": "Milk",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 15%, Set Warm for 2 turns, 20% Poison Resistance for 6 turns"
+  },
+  {
+    "Result": "Mug of Beer",
+    "Ingredient-1": "Cup or  Empty Mug",
+    "Ingredient-2": "Beer Barrel",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, Drunk for 2 turns, -1 Intelligence for 5 turns"
+  },
+  {
+    "Result": "Mug of Tea",
+    "Ingredient-1": "Mug of Water",
+    "Ingredient-2": "Tea Herbs",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 5%"
+  },
+  {
+    "Result": "Mug of Water",
+    "Ingredient-1": "Empty Mug",
+    "Ingredient-2": "Water",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 5%"
+  },
+  {
+    "Result": "Mug of Wine",
+    "Ingredient-1": "Empty Mug",
+    "Ingredient-2": "Grapes or  Wine Barrel",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 5%, Drunk for 2 turns"
+  },
+  {
+    "Result": "Onion",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 1 Constitution for 3 turns"
+  },
+  {
+    "Result": "Orange",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 5% Poison Resistance for 3 turns"
+  },
+  {
+    "Result": "Orange Juice",
+    "Ingredient-1": "Cup",
+    "Ingredient-2": "Orange",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 1 Finesse for 6 turns"
+  },
+  {
+    "Result": "Pear",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 5% Poison Resistance for 3 turns"
+  },
+  {
+    "Result": "Pepper",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "10% Fire Resistance for 3 turns"
+  },
+  {
+    "Result": "Pizza",
+    "Ingredient-1": "Pizza Dough",
+    "Ingredient-2": "Oven",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 2 Constitution for 6 turns"
+  },
+  {
+    "Result": "Pizza Dough",
+    "Ingredient-1": "Dough",
+    "Ingredient-2": "Tomato Sauce",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 5%"
+  },
+  {
+    "Result": "Plaice",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 1 Intelligence for 3 turns"
+  },
+  {
+    "Result": "Poisoned Drink",
+    "Ingredient-1": "Any Drink",
+    "Ingredient-2": "Any Poison Source",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Poisoned Food",
+    "Ingredient-1": "Any Food",
+    "Ingredient-2": "Any Poison Source",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Porridge",
+    "Ingredient-1": "Wheat",
+    "Ingredient-2": "Milk",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 1 Strength for 6 turns"
+  },
+  {
+    "Result": "Potato Porridge",
+    "Ingredient-1": "Potato",
+    "Ingredient-2": "Milk",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 20%, 2 Strength for 6 turns"
+  },
+  {
+    "Result": "Poutine",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 20%, 2 Strength and 2 Constitution for 6 turns"
+  },
+  {
+    "Result": "Pumpkin",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 15%"
+  },
+  {
+    "Result": "Pumpkin Soup",
+    "Ingredient-1": "Cooking Station",
+    "Ingredient-2": "Pumpkin or Pumpkin Parts",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 20%, 2 Wits for 6 turns"
+  },
+  {
+    "Result": "Raw Bird Leg",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 15%, -1 Constitution for 3 turns, 50% chance of Diseased for 2 turns"
+  },
+  {
+    "Result": "Raw Lumpy Giblets",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 15%, -1 Constitution for 3 turns, 50% chance of Diseased for 2 turns"
+  },
+  {
+    "Result": "Raw Mutton",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 15%, -1 Constitution for 3 turns, 50% chance of Diseased for 2 turns"
+  },
+  {
+    "Result": "Raw Rabbit Meat",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 15%, -1 Constitution for 3 turns, 50% chance of Diseased for 2 turns"
+  },
+  {
+    "Result": "Raw Red Meat",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 15%, -1 Constitution for 3 turns, 50% chance of Diseased for 2 turns"
+  },
+  {
+    "Result": "Raw Ribs",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 15%, -1 Constitution for 3 turns, 50% chance of Diseased for 2 turns"
+  },
+  {
+    "Result": "Raw Slice of Meat",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 15%, -1 Constitution for 3 turns, 50% chance of Diseased for 2 turns"
+  },
+  {
+    "Result": "Red Snapper",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 1 Intelligence for 3 turns"
+  },
+  {
+    "Result": "Rivellon Fries",
+    "Ingredient-1": "Cooking Station",
+    "Ingredient-2": "Cold Fries",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 20%, 2 Constitution for 6 turns"
+  },
+  {
+    "Result": "Roasted Pork",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 15%, Slowed for 1 turn, 1 Strength and 1 Wits for 3 turns"
+  },
+  {
+    "Result": "Salmon Pie",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 1 Intelligence for 3 turns"
+  },
+  {
+    "Result": "Source-Infused Meat",
+    "Ingredient-1": "Raw Mutton",
+    "Ingredient-2": "Earth Essence",
+    "Ingredient-3": "Source Orb",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Quest Item: Keep Calm and Carrion"
+  },
+  {
+    "Result": "Stew",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 20%, 1 Strength for 6 turns"
+  },
+  {
+    "Result": "Tainted Stew",
+    "Ingredient-1": "Meaty Stew",
+    "Ingredient-2": "Void-Tainted Fish",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "1 Strength for 3 turns, Diseased for 4 turns"
+  },
+  {
+    "Result": "Tomato",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 5%, 5% Poison Resistance for 3 turns"
+  },
+  {
+    "Result": "Tomato Sauce",
+    "Ingredient-1": "Any Hammer",
+    "Ingredient-2": "Tomato",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 5%, 10% Poison Resistance for 3 turns"
+  },
+  {
+    "Result": "Tomato Soup",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 10%, 1 Finesse and 10% Poison Resistance for 3 turns"
+  },
+  {
+    "Result": "Watermelon",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 5%, 10% Fire Resistance for 3 turns"
+  },
+  {
+    "Result": "Wheat",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Heals 5%"
+  },
+  {
+    "Result": "White Tea",
+    "Ingredient-1": "Teapot",
+    "Ingredient-2": "White Tea Leaves",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "2 Maximum AP for 3 turns, 0 AP cost to consume"
+  },
+  {
+    "Result": "White Tea Leaves",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "1 Maximum AP for 2 turns, 0 AP cost to consume"
+  },
+  {
+    "Result": "Source Orb",
+    "Ingredient-1": "-- Cannot --",
+    "Ingredient-2": "-- be --",
+    "Ingredient-3": "-- crafted --",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Small Flame Rune",
+    "Ingredient-1": "Any Wood",
+    "Ingredient-2": "Any Oil Source",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Small Frost Rune",
+    "Ingredient-1": "Any Water Source",
+    "Ingredient-2": "Any Metal Item",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Small Masterwork Rune",
+    "Ingredient-1": "Livewood Log",
+    "Ingredient-2": "Any Wine Source",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Small Rock Rune",
+    "Ingredient-1": "Any Rock",
+    "Ingredient-2": "Any Beer Source",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Small Thunder Rune",
+    "Ingredient-1": "Any Water Source",
+    "Ingredient-2": "Any Gold Item",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Small Venom Rune",
+    "Ingredient-1": "Any Bone",
+    "Ingredient-2": "Any Poison Source",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Medium Flame Rune",
+    "Ingredient-1": "Small Flame Rune",
+    "Ingredient-2": "Small Flame Rune",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Medium Frost Rune",
+    "Ingredient-1": "Small Frost Rune",
+    "Ingredient-2": "Small Frost Rune",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Medium Masterwork Rune",
+    "Ingredient-1": "Small Masterwork Rune",
+    "Ingredient-2": "Small Masterwork Rune",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Medium Rock Rune",
+    "Ingredient-1": "Small Rock Rune",
+    "Ingredient-2": "Small Rock Rune",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Medium Thunder Rune",
+    "Ingredient-1": "Small Thunder Rune",
+    "Ingredient-2": "Small Thunder Rune",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Medium Venom Rune",
+    "Ingredient-1": "Small Venom Rune",
+    "Ingredient-2": "Small Venom Rune",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Large Flame Rune",
+    "Ingredient-1": "Medium Flame Rune",
+    "Ingredient-2": "Medium Flame Rune",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Large Frost Rune",
+    "Ingredient-1": "Medium Frost Rune",
+    "Ingredient-2": "Medium Frost Rune",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Large Masterwork Rune",
+    "Ingredient-1": "Medium Masterwork Rune",
+    "Ingredient-2": "Medium Masterwork Rune",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Large Rock Rune",
+    "Ingredient-1": "Medium Rock Rune",
+    "Ingredient-2": "Medium Rock Rune",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Large Thunder Rune",
+    "Ingredient-1": "Medium Thunder Rune",
+    "Ingredient-2": "Medium Thunder Rune",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Large Venom Rune",
+    "Ingredient-1": "Medium Venom Rune",
+    "Ingredient-2": "Medium Venom Rune",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Giant Flame Rune",
+    "Ingredient-1": "Large Flame Rune",
+    "Ingredient-2": "Large Flame Rune",
+    "Ingredient-3": "Pouch Of Superior Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Giant Frost Rune",
+    "Ingredient-1": "Large Frost Rune",
+    "Ingredient-2": "Large Frost Rune",
+    "Ingredient-3": "Pouch Of Superior Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Giant Masterwork Rune",
+    "Ingredient-1": "Large Masterwork Rune",
+    "Ingredient-2": "Large Masterwork Rune",
+    "Ingredient-3": "Pouch Of Superior Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Giant Rock Rune",
+    "Ingredient-1": "Large Rock Rune",
+    "Ingredient-2": "Large Rock Rune",
+    "Ingredient-3": "Pouch Of Superior Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Giant Thunder Rune",
+    "Ingredient-1": "Large Thunder Rune",
+    "Ingredient-2": "Large Thunder Rune",
+    "Ingredient-3": "Pouch Of Superior Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Giant Venom Rune",
+    "Ingredient-1": "Large Venom Rune",
+    "Ingredient-2": "Large Venom Rune",
+    "Ingredient-3": "Pouch Of Superior Pixie Dust",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Small Flame Rune Of Power",
+    "Ingredient-1": "Small Flame Rune",
+    "Ingredient-2": "Rune Frame Of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Medium Flame Rune Of Power",
+    "Ingredient-1": "Medium Flame Rune",
+    "Ingredient-2": "Rune Frame Of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Large Flame Rune Of Power",
+    "Ingredient-1": "Large Flame Rune",
+    "Ingredient-2": "Rune Frame Of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Giant Flame Rune of Power",
+    "Ingredient-1": "Giant Flame Rune",
+    "Ingredient-2": "Rune Frame Of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Small Frost Rune Of Power",
+    "Ingredient-1": "Small Frost Rune",
+    "Ingredient-2": "Rune Frame Of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Medium Frost Rune Of Power",
+    "Ingredient-1": "Medium Frost Rune",
+    "Ingredient-2": "Rune Frame Of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Large Frost Rune Of Power",
+    "Ingredient-1": "Large Frost Rune",
+    "Ingredient-2": "Rune Frame Of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Giant Frost Rune of Power",
+    "Ingredient-1": "Giant Frost Rune",
+    "Ingredient-2": "Rune Frame of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Small Thunder Rune Of Power",
+    "Ingredient-1": "Small Thunder Rune",
+    "Ingredient-2": "Rune Frame Of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Medium Thunder Rune Of Power",
+    "Ingredient-1": "Medium Thunder Rune",
+    "Ingredient-2": "Rune Frame Of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Large Thunder Rune Of Power",
+    "Ingredient-1": "Large Thunder Rune",
+    "Ingredient-2": "Rune Frame Of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Giant Thunder Rune of Power",
+    "Ingredient-1": "Giant Thunder Rune",
+    "Ingredient-2": "Rune Frame of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Small Rock Rune Of Power",
+    "Ingredient-1": "Small Rock Rune",
+    "Ingredient-2": "Rune Frame Of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Medium Rock Rune Of Power",
+    "Ingredient-1": "Medium Rock Rune",
+    "Ingredient-2": "Rune Frame Of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Large Rock Rune Of Power",
+    "Ingredient-1": "Large Rock Rune",
+    "Ingredient-2": "Rune Frame Of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Giant Rock Rune of Power",
+    "Ingredient-1": "Giant Rock Rune",
+    "Ingredient-2": "Rune Frame of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Small Venom Rune Of Power",
+    "Ingredient-1": "Small Venom Rune",
+    "Ingredient-2": "Rune Frame Of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Medium Venom Rune Of Power",
+    "Ingredient-1": "Medium Venom Rune",
+    "Ingredient-2": "Rune Frame Of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Large Venom Rune Of Power",
+    "Ingredient-1": "Large Venom Rune",
+    "Ingredient-2": "Rune Frame Of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Giant Venom Rune of Power",
+    "Ingredient-1": "Giant Venom Rune",
+    "Ingredient-2": "Rune Frame of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Small Masterwork Rune of Power",
+    "Ingredient-1": "Small Masterwork Rune",
+    "Ingredient-2": "Rune Frame of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Medium Masterwork Rune of Power",
+    "Ingredient-1": "Medium Masterwork Rune",
+    "Ingredient-2": "Rune Frame of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Large Masterwork Rune of Power",
+    "Ingredient-1": "Large Masterwork Rune",
+    "Ingredient-2": "Rune Frame of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Giant Masterwork Rune of Power",
+    "Ingredient-1": "Giant Masterwork Rune",
+    "Ingredient-2": "Rune Frame of Power",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Mystical Giant Flame Rune",
+    "Ingredient-1": "Giant Flame Rune",
+    "Ingredient-2": "Mystical Rune Frame",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Mystical Giant Thunder Rune",
+    "Ingredient-1": "Giant Thunder Rune",
+    "Ingredient-2": "Mystical Rune Frame",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Mystical Giant Venom Rune",
+    "Ingredient-1": "Giant Venom Rune",
+    "Ingredient-2": "Mystical Rune Frame",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Mystical Giant Frost Rune",
+    "Ingredient-1": "Giant Frost Rune",
+    "Ingredient-2": "Mystical Rune Frame",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Mystical Giant Masterwork Rune",
+    "Ingredient-1": "Giant Masterwork Rune",
+    "Ingredient-2": "Mystical Rune Frame",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Mystical Giant Rock Rune",
+    "Ingredient-1": "Giant Rock Rune",
+    "Ingredient-2": "Mystical Rune Frame",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Armour-Piercing Grenade",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 189-209 piercing damage in a 4m radius"
+  },
+  {
+    "Result": "Blessed Ice Grenade",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Frost Grenade",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Creates a Blessed Ice surface in a 2m radius"
+  },
+  {
+    "Result": "Blessed Oil Flask",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Oil Flask",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Creates a Blessed Oil surface in a 2m radius"
+  },
+  {
+    "Result": "Blessed Water Balloon",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Water Balloon",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Creates a Blessed Water surface in a 3m radius Set Wet for 2 turns"
+  },
+  {
+    "Result": "Bottle Filled with Oil",
+    "Ingredient-1": "Empty Bottle",
+    "Ingredient-2": "Any Oil Source",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "An ingredient in the crafting of Firestorm Grenade."
+  },
+  {
+    "Result": "Broken Bottle",
+    "Ingredient-1": "Empty Bottle",
+    "Ingredient-2": "Any Hammer",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "An ingredient in the crafting of Nailbomb Grenade."
+  },
+  {
+    "Result": "Chemical Warfare Grenade",
+    "Ingredient-1": "Empty Canister",
+    "Ingredient-2": "Intestines",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "125-153 Poison Damage (+5% per Geomancer level) Set Diseased for 4 turns"
+  },
+  {
+    "Result": "Cluster Grenade",
+    "Ingredient-1": "Empty Grenade",
+    "Ingredient-2": "Fire Essence",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Fires 6 projectiles in a 3m radius 189-209 Fire Damage (+5% per Pyrokinetic level) per projectile in a 1m radius Set Burning for 2 turns Creates Fire surface"
+  },
+  {
+    "Result": "Cursed Cluster Grenade",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Cluster Grenade",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Fires 6 projectiles in a 3m radius 203-275 Fire Damage (+5% per Pyrokinetic level) per projectile in a 1m radius Set Burning for 2 turns Creates Cursed Fire surface"
+  },
+  {
+    "Result": "Cursed Firestorm Grenade",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Firestorm Grenade",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "203-275 Fire Damage (+5% per Pyrokinetic level) in a 2m radius Set Burning for 3 turns Creates a Cursed Fire surface"
+  },
+  {
+    "Result": "Cursed Poison Flask",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Poison Flask",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "169-229 Poison Damage (+5% per Geomancer level) in a 2m radius Set Poisoned for 2 turns Creates a Cursed Poison surface"
+  },
+  {
+    "Result": "Firestorm Grenade",
+    "Ingredient-1": "Bottle Filled With Oil",
+    "Ingredient-2": "Fuse",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "125-153 Fire Damage (+5% per Pyrokinetic level) in a 2m radius Set Burning for 3 turns Creates a Fire surface"
+  },
+  {
+    "Result": "Frost Grenade",
+    "Ingredient-1": "Empty Grenade",
+    "Ingredient-2": "Water Essence",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "125-153 Water Damage (+5% per Hydrosophist level) in a 2m radius Set Chilled for 2 turns Creates an Ice surface"
+  },
+  {
+    "Result": "Fuse",
+    "Ingredient-1": "Rope",
+    "Ingredient-2": "Rope",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "An ingredient in the crafting of Firestorm Grenade."
+  },
+  {
+    "Result": "Holy Hand Grenade",
+    "Ingredient-1": "Sovereign's Orb",
+    "Ingredient-2": "Starfish or  Pixie Dust",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Restore 581 Vitality (+5% per Hydrosophist level) in a 4m radius"
+  },
+  {
+    "Result": "Love Grenade",
+    "Ingredient-1": "Empty Perfume Bottle",
+    "Ingredient-2": "Pixie Dust or Any Honey",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Set Charmed for 2 turns in a 4m radius"
+  },
+  {
+    "Result": "Mind Maggot Grenade",
+    "Ingredient-1": "Empty Grenade",
+    "Ingredient-2": "A Jar of Mind Maggots",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Set Charmed for 4 turns in a 8m radius"
+  },
+  {
+    "Result": "Nailbomb Grenade",
+    "Ingredient-1": "Empty Grenade",
+    "Ingredient-2": "Nails or  Broken Bottle",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "132-146 Physical Damage (+5% per Warfare level) in a 4m radius Set Bleeding for 3 Turns"
+  },
+  {
+    "Result": "Oil Flask",
+    "Ingredient-1": "Empty Flask",
+    "Ingredient-2": "Any Oil Source",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Creates an Oil surface in a 2m radius"
+  },
+  {
+    "Result": "Poison Cloud Grenade",
+    "Ingredient-1": "Empty Canister",
+    "Ingredient-2": "Any Poison or  Rotten Eggs",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Creates a Poison Cloud in a 2m radius Set Poisoned for 2 turns"
+  },
+  {
+    "Result": "Poison Flask",
+    "Ingredient-1": "Empty Flask",
+    "Ingredient-2": "Any Poison Source",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Creates a Poison surface in a 2m radius Set Poisoned for 2 turns"
+  },
+  {
+    "Result": "Razzle Dazzle Grenade",
+    "Ingredient-1": "Empty Canister",
+    "Ingredient-2": "Jellyroom or  Air Resistance Potion",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Set Blinded for 2 turns in a 4m radius"
+  },
+  {
+    "Result": "Smoke Grenade",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Creates a Smoke cloud in a 3m radius"
+  },
+  {
+    "Result": "Terror Grenade",
+    "Ingredient-1": "Empty Canister",
+    "Ingredient-2": "Tormented Soul",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Set Terrified for 1 turn in a 4m radius"
+  },
+  {
+    "Result": "Thunderbolt Grenade",
+    "Ingredient-1": "Empty Canister",
+    "Ingredient-2": "Air Essence",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "125-153 Air Damage (+5% per Aerotheurge level) in a 4m radius Set Shocked for 2 turns"
+  },
+  {
+    "Result": "Tremor Grenade",
+    "Ingredient-1": "Empty Canister",
+    "Ingredient-2": "Earth Essence",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "125-153 Earth Damage (+5% per Geomancer level) in a 4m radius Set Knocked Down for 1 turn"
+  },
+  {
+    "Result": "Water Balloon",
+    "Ingredient-1": "Intestines",
+    "Ingredient-2": "Any Water Source",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Creates a Water surface Set Wet for 2 turns"
+  },
+  {
+    "Result": "Arrow",
+    "Ingredient-1": "Arrow Shaft",
+    "Ingredient-2": "Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Arrowhead x3",
+    "Ingredient-1": "Any Cutting Tool",
+    "Ingredient-2": "Sharp Stone or Sharp Piece of Metal",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Arrowhead x5",
+    "Ingredient-1": "Any Cutting Tool",
+    "Ingredient-2": "Bone",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Arrow Shaft x4 and  Wood Chips",
+    "Ingredient-1": "Any Cutting Tool",
+    "Ingredient-2": "Short Stick",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Blessed Water Arrow",
+    "Ingredient-1": "Arrow Shaft",
+    "Ingredient-2": "Blessed Water Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Restore 775 Vitality (+5% per Hydrosophist level) for 2 turns"
+  },
+  {
+    "Result": "Blessed Water Arrow",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Water Arrow",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Restore 775 Vitality (+5% per Hydrosophist level) for 2 turns"
+  },
+  {
+    "Result": "Blessed Water Arrowhead",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Water Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Charming Arrow",
+    "Ingredient-1": "Arrow Shaft",
+    "Ingredient-2": "Charming Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Set Charmed for 1 turn"
+  },
+  {
+    "Result": "Charming Arrow",
+    "Ingredient-1": "Jar of Honey",
+    "Ingredient-2": "Arrow",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Set Charmed for 1 turn"
+  },
+  {
+    "Result": "Charming Arrowhead",
+    "Ingredient-1": "Jar of Honey",
+    "Ingredient-2": "Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Cursed Fire Arrow",
+    "Ingredient-1": "Cursed Fire Arrowhead",
+    "Ingredient-2": "Arrow Shaft",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 100% Basic Attack Damage as Fire Damage (+5% per Pyrokinetic level) and Set Burning for 1 turn*  *The tooltip states that this arrow will set Burning for 1 turn, but actually sets Necrofire for 2 turns"
+  },
+  {
+    "Result": "Cursed Fire Arrowhead",
+    "Ingredient-1": "Source Orb",
+    "Ingredient-2": "Fire Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Explosive Arrow",
+    "Ingredient-1": "Arrow Shaft",
+    "Ingredient-2": "Explosive Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 70% Basic Attack Damage as Fire Damage (+5% per Pyrokinetic level) and Set Burning for 1 turn"
+  },
+  {
+    "Result": "Explosive Arrowhead",
+    "Ingredient-1": "Any Oil Source",
+    "Ingredient-2": "Fire Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Fire Arrow",
+    "Ingredient-1": "Arrow Shaft",
+    "Ingredient-2": "Fire Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 70% Basic Attack Damage as Fire Damage (+5% per Pyrokinetic level) and Set Burning for 1 turn"
+  },
+  {
+    "Result": "Fire Arrow",
+    "Ingredient-1": "Fire Essence",
+    "Ingredient-2": "Arrow",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 70% Basic Attack Damage as Fire Damage (+5% per Pyrokinetic level) and Set Burning for 1 turn"
+  },
+  {
+    "Result": "Fire Arrowhead",
+    "Ingredient-1": "Fire Essence",
+    "Ingredient-2": "Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Freezing Arrow",
+    "Ingredient-1": "Arrow Shaft",
+    "Ingredient-2": "Freezing Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 70% Basic Attack Damage as Water Damage (+5% per Hydrosophist level) and Set Chilled for 2 turns"
+  },
+  {
+    "Result": "Freezing Arrow",
+    "Ingredient-1": "Water Essence",
+    "Ingredient-2": "Arrow",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 70% Basic Attack Damage as Water Damage (+5% per Hydrosophist level) and Set Chilled for 2 turns"
+  },
+  {
+    "Result": "Freezing Arrowhead",
+    "Ingredient-1": "Water Essence",
+    "Ingredient-2": "Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Knockdown Arrow",
+    "Ingredient-1": "Arrow Shaft",
+    "Ingredient-2": "Knockdown Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 70% Basic Attack Damage (+5% per Warfare level) and set Knocked Down for 1 turn"
+  },
+  {
+    "Result": "Knockdown Arrowhead",
+    "Ingredient-1": "Any Cutting Tool",
+    "Ingredient-2": "Antler",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Poison Arrow",
+    "Ingredient-1": "Arrow Shaft",
+    "Ingredient-2": "Poisoned Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 70% Basic Attack Damage as Poison Damage (+5% per Geomancer level) and set Poisoned for 3 turns"
+  },
+  {
+    "Result": "Poison Arrow",
+    "Ingredient-1": "Any Poison Source",
+    "Ingredient-2": "Arrow",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 70% Basic Attack Damage as Poison Damage (+5% per Geomancer level) and set Poisoned for 3 turns"
+  },
+  {
+    "Result": "Poisoned Arrowhead",
+    "Ingredient-1": "Any Poison Source",
+    "Ingredient-2": "Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Poison cloud Arrow",
+    "Ingredient-1": "Arrow Shaft",
+    "Ingredient-2": "Poison cloud Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 70% Basic Attack Damage as Poison Damage (+5% per Geomancer level) and set Poisoned for 2 turns"
+  },
+  {
+    "Result": "Poison cloud Arrow",
+    "Ingredient-1": "Earth Essence",
+    "Ingredient-2": "Arrow",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 70% Basic Attack Damage as Poison Damage (+5% per Geomancer level) and set Poisoned for 2 turns"
+  },
+  {
+    "Result": "Poison cloud Arrowhead",
+    "Ingredient-1": "Earth Essence",
+    "Ingredient-2": "Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Shocking Arrow",
+    "Ingredient-1": "Air Essence",
+    "Ingredient-2": "Arrow",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 70% Basic Attack Damage as Air Damage (+5% per Aerotheurge level) and set Shocked for 1 turn"
+  },
+  {
+    "Result": "Shocking Arrow",
+    "Ingredient-1": "Arrow Shaft",
+    "Ingredient-2": "Shocking Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 70% Basic Attack Damage as Air Damage (+5% per Aerotheurge level) and set Shocked for 1 turn"
+  },
+  {
+    "Result": "Shocking Arrowhead",
+    "Ingredient-1": "Air Essence",
+    "Ingredient-2": "Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Shocking Arrowhead",
+    "Ingredient-1": "Any Cutting Tool",
+    "Ingredient-2": "Tooth",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Slowdown Arrow",
+    "Ingredient-1": "Arrow Shaft",
+    "Ingredient-2": "Slowdown Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 100% Basic Attack Damage (+5% per Warfare level) and set Slowed for 2 turns"
+  },
+  {
+    "Result": "Slowdown Arrow",
+    "Ingredient-1": "Any Oil Source",
+    "Ingredient-2": "Arrow",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 100% Basic Attack Damage (+5% per Warfare level) and set Slowed for 2 turns"
+  },
+  {
+    "Result": "Slowdown Arrowhead",
+    "Ingredient-1": "Any Oil Source",
+    "Ingredient-2": "Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Smokescreen Arrow",
+    "Ingredient-1": "Arrow Shaft",
+    "Ingredient-2": "Smokescreen Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Static Cloud Arrow",
+    "Ingredient-1": "Arrow Shaft",
+    "Ingredient-2": "Static Cloud Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 70% Basic Attack Damage as Air Damage (+5% per Aerotheurge level)"
+  },
+  {
+    "Result": "Static Cloud Arrow",
+    "Ingredient-1": "Air Essence",
+    "Ingredient-2": "Steam cloud Arrow",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 70% Basic Attack Damage as Air Damage (+5% per Aerotheurge level)"
+  },
+  {
+    "Result": "Static Cloud Arrowhead",
+    "Ingredient-1": "Shocking Arrowhead",
+    "Ingredient-2": "Any Water Source",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Static Cloud Arrowhead",
+    "Ingredient-1": "Air Essence",
+    "Ingredient-2": "Steam cloud Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Steam cloud Arrow",
+    "Ingredient-1": "Arrow Shaft",
+    "Ingredient-2": "Steam cloud Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 70% Basic Attack Damage as Water Damage (+5% per Hydrosophist level) and set Wet for 2 turns"
+  },
+  {
+    "Result": "Steam cloud Arrowhead",
+    "Ingredient-1": "Any Water Source",
+    "Ingredient-2": "Fire Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Water Arrow",
+    "Ingredient-1": "Arrow Shaft",
+    "Ingredient-2": "Water Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 70% Basic Attack Damage as Water Damage (+5% per Hydrosophist level) and set Wet for 2 turns"
+  },
+  {
+    "Result": "Water Arrow",
+    "Ingredient-1": "Any Water Source",
+    "Ingredient-2": "Arrow",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Deals 70% Basic Attack Damage as Water Damage (+5% per Hydrosophist level) and set Wet for 2 turns"
+  },
+  {
+    "Result": "Water Arrowhead",
+    "Ingredient-1": "Any Water Source",
+    "Ingredient-2": "Arrowhead",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Makeshift Club",
+    "Ingredient-1": "Long Branch",
+    "Ingredient-2": "Sharp Rock",
+    "Ingredient-3": "Sharp Rock",
+    "Ingredient-4": "Sharp Rock",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Handmade Sword",
+    "Ingredient-1": "Anvil",
+    "Ingredient-2": "Metal Scraps",
+    "Ingredient-3": "Any Hammer",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Knife on a Stick",
+    "Ingredient-1": "Short Stick",
+    "Ingredient-2": "Any Dagger",
+    "Ingredient-3": "Rope",
+    "Ingredient-4": "One-Handed Sword",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Primitive Harpoon",
+    "Ingredient-1": "Long Branch",
+    "Ingredient-2": "Any Dagger",
+    "Ingredient-3": "Rope",
+    "Ingredient-4": "Spear",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Shiv",
+    "Ingredient-1": "Anvil",
+    "Ingredient-2": "Sharp Piece of Metal",
+    "Ingredient-3": "Any Hammer",
+    "Ingredient-4": "Dagger",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Big Tongs Roped Together",
+    "Ingredient-1": "Leather Scraps",
+    "Ingredient-2": "Tongs",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Two-Handed Mace | Damage based on level | Physical | 165% Critical Damage | Level (Yours) | Requires Strength (Increases with level)"
+  },
+  {
+    "Result": "Big Tongs Roped Together",
+    "Ingredient-1": "Cloth Scraps",
+    "Ingredient-2": "Tongs",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Two-Handed Mace | Damage based on level | Physical | 165% Critical Damage | Level (Yours) | Requires Strength (Increases with level)"
+  },
+  {
+    "Result": "Bowstring",
+    "Ingredient-1": "Sinew",
+    "Ingredient-2": "Sinew",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Bowstring"
+  },
+  {
+    "Result": "Crossbow",
+    "Ingredient-1": "Crossbow Without Bowstring",
+    "Ingredient-2": "Bowstring",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Crossbow | Damage based on level | Physical | 150% Critical Damage | -1 Movement +5 Accuracy | Level (Yours) | Requires Finesse (Increases with level)"
+  },
+  {
+    "Result": "Improv Wand",
+    "Ingredient-1": "Short Stick",
+    "Ingredient-2": "Any Skull",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Wand | Damage based on level | Random Element | 150% Critical Damage | Level (Yours) | Requires Intelligence (Increases with level)"
+  },
+  {
+    "Result": "Improvised Staff",
+    "Ingredient-1": "Long Branch",
+    "Ingredient-2": "Shell",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Staff | Damage based on level | Random Element | 165% Critical Damage | Level (Yours) | Requires Intelligence (Increases with level)"
+  },
+  {
+    "Result": "Makeshift Club",
+    "Ingredient-1": "Long Branch",
+    "Ingredient-2": "Leather Scraps",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Two-Handed Mace | Damage based on level | Physical | 165% Critical Damage | Level (Yours) | Requires Strength (Increases with level)"
+  },
+  {
+    "Result": "Makeshift Club",
+    "Ingredient-1": "Long Branch",
+    "Ingredient-2": "Cloth Scraps",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Two-Handed Mace | Damage based on level | Physical | 165% Critical Damage | Level (Yours) | Requires Strength (Increases with level)"
+  },
+  {
+    "Result": "Improv Wand",
+    "Ingredient-1": "Short Stick",
+    "Ingredient-2": "Skull (Bird)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Wand | Damage based on level | Random Element | 150% Critical Damage | Level (Yours) | Requires Intelligence (Increases with level)"
+  },
+  {
+    "Result": "Primitive Harpoon",
+    "Ingredient-1": "Long Branch",
+    "Ingredient-2": "Arrowhead, Sharp Piece of Metal, Any Dagger",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Spear | Damage based on level | Physical | 165% Critical Damage | Level (Yours) | Requires Finesse (Increases with level)"
+  },
+  {
+    "Result": "Sharp Stone On A Big Branch",
+    "Ingredient-1": "Long Branch",
+    "Ingredient-2": "Sharp Rock",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Two-Handed Axe | Damage based on level | Physical | 165% Critical Damage | Level (Yours) | Requires Strength (Increases with level"
+  },
+  {
+    "Result": "Sharp Stone On A Stick",
+    "Ingredient-1": "Short Stick",
+    "Ingredient-2": "Sharp Rock",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "One-Handed Axe | Damage based on level | Physical | 150% Critical Damage | Level (Yours) | Requires Strength (Increases with level)"
+  },
+  {
+    "Result": "Shiv",
+    "Ingredient-1": "Cloth Scraps",
+    "Ingredient-2": "Sharp Piece of Metal",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Dagger | Damage based on level | Physical | 150% Critical Damage | Can Backstab | Level (Yours) | Requires Finesse (Increases with level)"
+  },
+  {
+    "Result": "Shiv",
+    "Ingredient-1": "Handkerchief",
+    "Ingredient-2": "Sharp Piece of Metal",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Dagger | Damage based on level | Physical | 150% Critical Damage | Can Backstab | Level (Yours) | Requires Finesse (Increases with level)"
+  },
+  {
+    "Result": "Shiv",
+    "Ingredient-1": "Leather Scraps",
+    "Ingredient-2": "Sharp Piece of Metal",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Dagger | Damage based on level | Physical | 150% Critical Damage | Can Backstab | Level (Yours) | Requires Finesse (Increases with level)"
+  },
+  {
+    "Result": "Toy Crossbow",
+    "Ingredient-1": "Long Branch",
+    "Ingredient-2": "Short Stick",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Crossbow | Damage based on level | Physical | 150% Critical Damage | -1 Movement +5 Accuracy | Level (Yours) | Requires Finesse (Increases with level)"
+  },
+  {
+    "Result": "Twig With A String",
+    "Ingredient-1": "Short Stick",
+    "Ingredient-2": "Bowstring",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Bow | Damage based on level | Physical | 150% Critical Damage | Level (Yours) | Requires Finesse (Increases with level)"
+  },
+  {
+    "Result": "Poisoned weapon",
+    "Ingredient-1": "weapons",
+    "Ingredient-2": "Poison",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Adds poison damage."
+  },
+  {
+    "Result": "Fire enchanted weapon",
+    "Ingredient-1": "weapons",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Adds fire damage."
+  },
+  {
+    "Result": "Thread",
+    "Ingredient-1": "Hair",
+    "Ingredient-2": "Hair",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Thread",
+    "Ingredient-1": "Spinning Wheel",
+    "Ingredient-2": "Hair",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Needle & Thread",
+    "Ingredient-1": "Needle",
+    "Ingredient-2": "Thread",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Leather Scraps",
+    "Ingredient-1": "Any Knife/Cutting Tool",
+    "Ingredient-2": "Animal Hide",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Armour of the Eternals",
+    "Ingredient-1": "Eternal Artefact",
+    "Ingredient-2": "Eternal Plate",
+    "Ingredient-3": "Metal Scraps",
+    "Ingredient-4": "Source Orb",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Handmade Mage Armour",
+    "Ingredient-1": "Needle & Thread",
+    "Ingredient-2": "Cloth Scraps",
+    "Ingredient-3": "Pixie Dust",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Handmade Leather Armour",
+    "Ingredient-1": "Needle & Thread",
+    "Ingredient-2": "Leather Scraps",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Handmade Cloth Shirt",
+    "Ingredient-1": "Needle & Thread",
+    "Ingredient-2": "Cloth Scraps",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Handmade Chain Armour",
+    "Ingredient-1": "Needle & Thread",
+    "Ingredient-2": "Metal Scraps",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Handmade Scale Armour",
+    "Ingredient-1": "Anvil",
+    "Ingredient-2": "Scale Scraps",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Handmade Scale Armour",
+    "Ingredient-1": "Anvil",
+    "Ingredient-2": "Scale Scraps",
+    "Ingredient-3": "Any Hammer",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Handmade Plate Armour",
+    "Ingredient-1": "Anvil",
+    "Ingredient-2": "Plate Scraps",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Handmade Plate Armour",
+    "Ingredient-1": "Anvil",
+    "Ingredient-2": "Plate Scraps",
+    "Ingredient-3": "Any Hammer",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Handmade Shield",
+    "Ingredient-1": "Metal Scraps",
+    "Ingredient-2": "Wood Chips",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Winter Boots",
+    "Ingredient-1": "Nails",
+    "Ingredient-2": "Armor Shoes / Boots",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": "Immune to slipping."
+  },
+  {
+    "Result": "Dwarven Mask of the Shapeshifter",
+    "Ingredient-1": "Ripped-off Dwarven Face",
+    "Ingredient-2": "Source Orb",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": "Allows the caster to polymorph into a Dwarf."
+  },
+  {
+    "Result": "Elven Mask of the Shapeshifter",
+    "Ingredient-1": "Ripped-off Elven Face",
+    "Ingredient-2": "Source Orb",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": "Allows the caster to polymorph into a Elf."
+  },
+  {
+    "Result": "Human Mask of the Shapeshifter",
+    "Ingredient-1": "Ripped-off Human Face",
+    "Ingredient-2": "Source Orb",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": "Allows the caster to polymorph into a Human."
+  },
+  {
+    "Result": "Lizard Mask of the Shapeshifter",
+    "Ingredient-1": "Ripped-off Lizard Face",
+    "Ingredient-2": "Source Orb",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": "Allows the caster to polymorph into a Lizard."
+  },
+  {
+    "Result": "Mask of the Shapeshifter",
+    "Ingredient-1": "Human Mask of the Shapeshifter",
+    "Ingredient-2": "Dwarven Mask of the Shapeshifter",
+    "Ingredient-3": "Elven Mask of the Shapeshifter",
+    "Ingredient-4": "Lizard Mask of the Shapeshifter",
+    "Ingredient-5": "Source Orb",
+    "Description": "Allows the caster to polymorph into a any of the four races."
+  },
+  {
+    "Result": "The Vulture's Claws",
+    "Ingredient-1": "Any Leather Gloves",
+    "Ingredient-2": "Blessed Vulture Feather",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "The Vulture's Legs",
+    "Ingredient-1": "Any Leather Pants",
+    "Ingredient-2": "Blessed Vulture Feather",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "The Vulture's Mantle",
+    "Ingredient-1": "Any Leather Armour",
+    "Ingredient-2": "Blessed Vulture Feather",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "The Vulture's Mask",
+    "Ingredient-1": "Any Skullcap",
+    "Ingredient-2": "Blessed Vulture Feather",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "The Vulture's Talons",
+    "Ingredient-1": "Any Leather Shoes",
+    "Ingredient-2": "Blessed Vulture Feather",
+    "Ingredient-3": "--",
+    "Ingredient-4": "--",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Backpack",
+    "Ingredient-1": "Leather Scraps",
+    "Ingredient-2": "Rope",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Cooking Station",
+    "Ingredient-1": "Cooking Pot",
+    "Ingredient-2": "Campfire / Bonfire",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Glowing Idol of Rebirth",
+    "Ingredient-1": "Resurrection Scroll",
+    "Ingredient-2": "Ashen Idol of Rebirth",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Improvised Shovel",
+    "Ingredient-1": "Long Branch",
+    "Ingredient-2": "Bowl",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Lockpicks",
+    "Ingredient-1": "Needle",
+    "Ingredient-2": "Needle",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Lockpicks",
+    "Ingredient-1": "Soap",
+    "Ingredient-2": "Key (any)",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Lockpicks x4",
+    "Ingredient-1": "Hammer",
+    "Ingredient-2": "Nails",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Needle & Thread",
+    "Ingredient-1": "Needle",
+    "Ingredient-2": "Thread",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Silver Lever Shaft",
+    "Ingredient-1": "Ancient Forge",
+    "Ingredient-2": "Silver Bar / Ore or  Silver Cup / Glass",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Trap Disarming Kit",
+    "Ingredient-1": "Tongs",
+    "Ingredient-2": "Sharp Piece of Metal",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Wood Pulp",
+    "Ingredient-1": "Wood Chips",
+    "Ingredient-2": "Water",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Sheet of Paper",
+    "Ingredient-1": "Wood Pulp",
+    "Ingredient-2": "Oven",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Apportation Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Air Essence",
+    "Ingredient-3": "Rope",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Blinding Radiance Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Air Essence",
+    "Ingredient-3": "Gold",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Chain Lightning Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Source Orb",
+    "Ingredient-3": "Wool or  Yarn",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Closed Circuit Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Source Orb",
+    "Ingredient-3": "Lucky Rabbit Paw",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Electric Discharge Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Air Essence",
+    "Ingredient-3": "Rabbit's Paw",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Favourable Wind Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Air Essence",
+    "Ingredient-3": "Panties",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Nether Swap Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Air Essence",
+    "Ingredient-3": "Chanterelle",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Pressure Spike Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Air Essence",
+    "Ingredient-3": "Handkerchief",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Shocking Touch Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Air Essence",
+    "Ingredient-3": "Flour",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Superconductor Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Alien Air Essence",
+    "Ingredient-3": "Jellyroom",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Teleportation Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Air Essence",
+    "Ingredient-3": "Feather",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Tornado Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Air Essence",
+    "Ingredient-3": "Hair",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Tornado Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Alien Air Essence",
+    "Ingredient-3": "Fancy Feather",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Acid Spores Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Source Orb",
+    "Ingredient-3": "Livewood Log",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Contamination Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Earth Essence",
+    "Ingredient-3": "Intestines",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Dust Blast Scroll",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "N/A",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Earthquake Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Earth Essence",
+    "Ingredient-3": "Clay",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Fortify Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Earth Essence",
+    "Ingredient-3": "Whisperwood",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Fossil Strike Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Earth Essence",
+    "Ingredient-3": "Sharp Rock",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Hungry Flower Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Source Orb",
+    "Ingredient-3": "Earth Tongue Mushroom",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Impalement Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Earth Essence",
+    "Ingredient-3": "Sharp Piece of Metal",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Living Wall Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Alien Earth Essence",
+    "Ingredient-3": "Augmentor",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Mend Metal Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Earth Essence",
+    "Ingredient-3": "Stardust Herb",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Poison Dart Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Earth Essence",
+    "Ingredient-3": "Fly Agaric Mushroom",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Poison Wave Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Earth Essence",
+    "Ingredient-3": "Slime",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Pyroclastic Eruption Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Source Orb",
+    "Ingredient-3": "Eternal Tablet",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Reactive Armour Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Earth Essence",
+    "Ingredient-3": "Trumpet of Death",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Armour of Frost Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Water Essence",
+    "Ingredient-3": "Bluegill Mushroom",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Deep Freeze Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Alien Water Essence",
+    "Ingredient-3": "Mackerel",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Hail Strike Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Water Essence",
+    "Ingredient-3": "Chub Fish",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Healing Ritual Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Water Essence",
+    "Ingredient-3": "Starfish",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Ice Fan Scroll",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "N/A",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Rain Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Water Essence",
+    "Ingredient-3": "Herring",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Restoration Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Water Essence",
+    "Ingredient-3": "Penny Bun Mushroom",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Soothing Cold Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Water Essence",
+    "Ingredient-3": "Red Snapper",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Steam Lance Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Source Orb",
+    "Ingredient-3": "Chub Fish",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Winter Blast Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Water Essence",
+    "Ingredient-3": "Plaice",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Epidemic of Fire Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Source Orb",
+    "Ingredient-3": "Large Tusk",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Fireball Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Fire Essence",
+    "Ingredient-3": "Sharp Claw",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Firebrand Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Alien Fire Essence",
+    "Ingredient-3": "Fang",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Fire Whip Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Fire Essence",
+    "Ingredient-3": "Voidwoken Spike",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Flaming Crescendo Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Alien Fire Essence",
+    "Ingredient-3": "Needle",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Flaming Tongues Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Fire Essence",
+    "Ingredient-3": "Cup of Oil",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Flaming Skin Scroll",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "N/A",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Haste Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Fire Essence",
+    "Ingredient-3": "Claw or  Antler",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Ignition Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Fire Essence",
+    "Ingredient-3": "Tusk",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Laser Ray Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Fire Essence",
+    "Ingredient-3": "Nails",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Peace of Mind Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Fire Essence",
+    "Ingredient-3": "Crab's Claw",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Searing Daggers Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Fire Essence",
+    "Ingredient-3": "Tooth",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Supernova Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Fire Essence",
+    "Ingredient-3": "Sharp Tooth",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Black Shroud Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Source Orb",
+    "Ingredient-3": "Creepy Eye",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Blood Sucker Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Shadow Essence",
+    "Ingredient-3": "Penny Bun Mushroom",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Bone Cage Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Shadow Essence",
+    "Ingredient-3": "Fish Bone",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Decaying Touch Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Shadow Essence",
+    "Ingredient-3": "Eye",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Grasp of the Starved Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Shadow Essence or  Source Orb",
+    "Ingredient-3": "Disembodied Hand",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Infect Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Shadow Essence",
+    "Ingredient-3": "Intestines",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Living on the Edge Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Shadow Essence",
+    "Ingredient-3": "Raw Lumpy Giblets or Dirty Socks",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Raise Bloated Corpse Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Shadow Essence",
+    "Ingredient-3": "Raw Red Meat",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Raise Bone Widow Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Shadow Essence",
+    "Ingredient-3": "Ancient Human Skull",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Shackles Of Pain Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Shadow Essence",
+    "Ingredient-3": "Skull",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Silencing Stare Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Alien Shadow Essence",
+    "Ingredient-3": "Goo",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Apotheosis Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Source Orb",
+    "Ingredient-3": "Puppet Bead",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Equalize Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Alien Life Essence",
+    "Ingredient-3": "Pilgrim Shell",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Bull Horns Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Life Essence",
+    "Ingredient-3": "Any Antler",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Chameleon Cloak Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Life Essence",
+    "Ingredient-3": "Long Rat Tail",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Chicken Claw Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Life Essence",
+    "Ingredient-3": "Any Chicken Foot",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Heart of Steel Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Life Essence",
+    "Ingredient-3": "Any Metal",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Skin Graft Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Source Orb",
+    "Ingredient-3": "Animal Scales",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Spider Legs Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Life Essence or  Alien Life Essence",
+    "Ingredient-3": "Arthropod Leg",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Spread Your Wings Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Life Essence",
+    "Ingredient-3": "Sinew",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Summon Oily Blob Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Life Essence",
+    "Ingredient-3": "Oil",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Tentacle Lash Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Life Essence",
+    "Ingredient-3": "Rat's Tail",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Dimensional Bolt Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Tormented Soul",
+    "Ingredient-3": "Pepper",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Dominate Mind Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Alien Tormented Soul",
+    "Ingredient-3": "Jar of Honey",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Elemental Totem Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Tormented Soul",
+    "Ingredient-3": "Wooden Doll",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Ethereal Storm Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Source Orb",
+    "Ingredient-3": "Carrot",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Planar Gateway Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Source Orb",
+    "Ingredient-3": "Grapes",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Rallying Cry Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Tormented Soul",
+    "Ingredient-3": "Garlic",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Soul Mate Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Tormented Soul",
+    "Ingredient-3": "Wheat",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Curse Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "High Quality Tormented Soul",
+    "Ingredient-3": "Any Void-Tainted Fish",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Resurrection Scroll",
+    "Ingredient-1": "Sheet of Paper",
+    "Ingredient-2": "Water Essence",
+    "Ingredient-3": "Life Essence",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Voidwoken Fish Exchange",
+    "Ingredient-1": "N/A",
+    "Ingredient-2": "N/A",
+    "Ingredient-3": "N/A",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Blinding Radiance Skill Book",
+    "Ingredient-1": "Aerotheurge Skill Book",
+    "Ingredient-2": "Blinding Radiance Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Chain Lightning Skill Book",
+    "Ingredient-1": "Aerotheurge Skill Book",
+    "Ingredient-2": "Chain Lightning Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Electric Fence Skill Book",
+    "Ingredient-1": "Aerotheurge Skill Book",
+    "Ingredient-2": "Electric Fence Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Favourable Wind Skill Book",
+    "Ingredient-1": "Aerotheurge Skill Book",
+    "Ingredient-2": "Favourable Wind Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Lightning Bolt Skill Book",
+    "Ingredient-1": "Aerotheurge Skill Book",
+    "Ingredient-2": "Lightning Bolt Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Teleportation Skill Book",
+    "Ingredient-1": "Aerotheurge Skill Book",
+    "Ingredient-2": "Teleportation Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Shocking Touch Skill Book",
+    "Ingredient-1": "Aerotheurge Skill Book",
+    "Ingredient-2": "Shocking Touch Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Tornado Skill Book",
+    "Ingredient-1": "Aerotheurge Skill Book",
+    "Ingredient-2": "Tornado Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Acid Spores Skill Book",
+    "Ingredient-1": "Geomancer Skill Book",
+    "Ingredient-2": "Acid Spores Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Contamination Skill Book",
+    "Ingredient-1": "Geomancer Skill Book",
+    "Ingredient-2": "Contamination Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Corrosive Spray Skillbook",
+    "Ingredient-1": "Geomancer Skill Book",
+    "Ingredient-2": "Any Source Necromancy Skillbook",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Fortify Skill Book",
+    "Ingredient-1": "Geomancer Skill Book",
+    "Ingredient-2": "Fortify Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Poison Dart Skill Book",
+    "Ingredient-1": "Geomancer Skill Book",
+    "Ingredient-2": "Poison Dart Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Fossil Strike Skill Book",
+    "Ingredient-1": "Geomancer Skill Book",
+    "Ingredient-2": "Fossil Strike Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Impalement Skill Book",
+    "Ingredient-1": "Geomancer Skill Book",
+    "Ingredient-2": "Impalement Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Burn My Eyes Skill Book",
+    "Ingredient-1": "Pyrokinetic Skill Book",
+    "Ingredient-2": "Burn My Eyes Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Fireball Skill Book",
+    "Ingredient-1": "Pyrokinetic Skill Book",
+    "Ingredient-2": "Fireball Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Fireblood Skill Book",
+    "Ingredient-1": "Pyrokinetic Skill Book",
+    "Ingredient-2": "Any Polymorph Skillbook",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Fireblood Skill Book",
+    "Ingredient-1": "Pyrokinetic Skill Book",
+    "Ingredient-2": "Fireblood Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Searing Daggers Skill Book",
+    "Ingredient-1": "Pyrokinetic Skill Book",
+    "Ingredient-2": "Searing Daggers Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Haste Skill Book",
+    "Ingredient-1": "Pyrokinetic Skill Book",
+    "Ingredient-2": "Haste Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Ignition Skill Book",
+    "Ingredient-1": "Pyrokinetic Skill Book",
+    "Ingredient-2": "Ignition Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Infectious Flame Skill Book",
+    "Ingredient-1": "Pyrokinetic Skill Book",
+    "Ingredient-2": "Infectious Flame Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Spontaneous Combustion Skill Book",
+    "Ingredient-1": "Pyrokinetic Skill Book",
+    "Ingredient-2": "Spontaneous Combustion Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Blood Sucker Skill Book",
+    "Ingredient-1": "Necromancer Skill Book",
+    "Ingredient-2": "Blood Sucker Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Decaying Touch Skill Book",
+    "Ingredient-1": "Necromancer Skill Book",
+    "Ingredient-2": "Decaying Touch Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Mosquito Swarm Skill Book",
+    "Ingredient-1": "Necromancer Skill Book",
+    "Ingredient-2": "Mosquito Swarm Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Rain of Blood Skill Book",
+    "Ingredient-1": "Necromancer Skill Book",
+    "Ingredient-2": "Rain of Blood Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Shackles of Pain Skill Book",
+    "Ingredient-1": "Necromancer Skill Book",
+    "Ingredient-2": "Shackles of Pain Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Infect Skill Book",
+    "Ingredient-1": "Necromancer Skill Book",
+    "Ingredient-2": "Infect Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Tentacle Lash Skill Book",
+    "Ingredient-1": "Polymorph Skill Book",
+    "Ingredient-2": "Tentacle Lash Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Chicken Claw Skill Book",
+    "Ingredient-1": "Polymorph Skill Book",
+    "Ingredient-2": "Chicken Claw Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Bull Horns Skill Book",
+    "Ingredient-1": "Polymorph Skill Book",
+    "Ingredient-2": "Bull Horns Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Chameleon Cloak Skill Book",
+    "Ingredient-1": "Polymorph Skill Book",
+    "Ingredient-2": "Chameleon Cloak Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Heart of Steel Skill Book",
+    "Ingredient-1": "Polymorph Skill Book",
+    "Ingredient-2": "Heart of Steel Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Spread Your Wings Skill Book",
+    "Ingredient-1": "Polymorph Skill Book",
+    "Ingredient-2": "Spread Your Wings Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Conjure Incarnate Skill Book",
+    "Ingredient-1": "Summoning Skill Book",
+    "Ingredient-2": "Conjure Incarnate Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Dimensional Bolt Skill Book",
+    "Ingredient-1": "Summoning Skill Book",
+    "Ingredient-2": "Dimensional Bolt Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Elemental Totem Skill Book",
+    "Ingredient-1": "Summoning Skill Book",
+    "Ingredient-2": "Elemental Totem Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Farsight Infusion Skill Book",
+    "Ingredient-1": "Summoning Skill Book",
+    "Ingredient-2": "Farsight Infusion Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Power Infusion Skill Book",
+    "Ingredient-1": "Summoning Skill Book",
+    "Ingredient-2": "Power Infusion Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Rallying Cry Skill Book",
+    "Ingredient-1": "Summoning Skill Book",
+    "Ingredient-2": "Rallying Cry Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Supercharger Skill Book",
+    "Ingredient-1": "Summoning Skill Book",
+    "Ingredient-2": "Supercharger Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Armour of Frost Skill Book",
+    "Ingredient-1": "Hydrosophist Skill Book",
+    "Ingredient-2": "Armour of Frost Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Hail Strike Skill Book",
+    "Ingredient-1": "Hydrosophist Skill Book",
+    "Ingredient-2": "Hail Strike Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Healing Ritual Skill Book",
+    "Ingredient-1": "Hydrosophist Skill Book",
+    "Ingredient-2": "Healing Ritual Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Rain Skill Book",
+    "Ingredient-1": "Hydrosophist Skill Book",
+    "Ingredient-2": "Rain Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Restoration Skill Book",
+    "Ingredient-1": "Hydrosophist Skill Book",
+    "Ingredient-2": "Restoration Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Winter Blast Skill Book",
+    "Ingredient-1": "Hydrosophist Skill Book",
+    "Ingredient-2": "Winter Blast Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Steam Lance Skill Book",
+    "Ingredient-1": "Hydrosophist Skill Book",
+    "Ingredient-2": "Global Cooling Scroll",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Arrowhead x3",
+    "Ingredient-1": "Any Cutting Tool",
+    "Ingredient-2": "Sharp Rock or Sharp Piece of Metal",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Arrowhead x5",
+    "Ingredient-1": "Any Cutting Tool",
+    "Ingredient-2": "Bone",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Arrow Shaft x4 and  Wood Chips",
+    "Ingredient-1": "Short Stick",
+    "Ingredient-2": "Any Cutting Tool or  Bench Saw",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Backpack",
+    "Ingredient-1": "Leather Scraps",
+    "Ingredient-2": "Rope",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Bonedust",
+    "Ingredient-1": "Bone/Skull/Chew Toy",
+    "Ingredient-2": "Mortar And Pestle",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Bottle Filled with Oil",
+    "Ingredient-1": "Empty Bottle",
+    "Ingredient-2": "Any Oil Source",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Broken Bottle",
+    "Ingredient-1": "Empty Bottle",
+    "Ingredient-2": "Any Hammer",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Cloth Scraps",
+    "Ingredient-1": "Bed Linen",
+    "Ingredient-2": "Any Cutting Tool",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Feather",
+    "Ingredient-1": "Pillow",
+    "Ingredient-2": "Any Cutting Tool",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Fuse",
+    "Ingredient-1": "Rope",
+    "Ingredient-2": "Rope",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Leather Scraps",
+    "Ingredient-1": "Any Dagger",
+    "Ingredient-2": "Animal Hide",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Long Branch x2 and  Wood Chips",
+    "Ingredient-1": "Log",
+    "Ingredient-2": "Any Cutting Tool or  Bench Saw",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Pixie Dust",
+    "Ingredient-1": "Bonedust",
+    "Ingredient-2": "Stardust",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Pouch Of Superior Pixie Dust",
+    "Ingredient-1": "Bonedust",
+    "Ingredient-2": "Pouch Of Superior Star Dust",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Pouch of Superior Star Dust",
+    "Ingredient-1": "Superior Stardust Herb",
+    "Ingredient-2": "Mortar and Pestle",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Rope",
+    "Ingredient-1": "Yarn",
+    "Ingredient-2": "Yarn",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Sheet of Paper",
+    "Ingredient-1": "Oven",
+    "Ingredient-2": "Wood Pulp",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Short Stick x2 and  Wood Chips",
+    "Ingredient-1": "Long Branch",
+    "Ingredient-2": "Any Cutting Tool or  Bench Saw",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Stardust",
+    "Ingredient-1": "Stardust Herb",
+    "Ingredient-2": "Mortar And Pestle",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Thread",
+    "Ingredient-1": "Hair or  Tuft of Cat Fur",
+    "Ingredient-2": "Hair or  Tuft of Cat Fur or  Spinning Wheel",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Wood Chips",
+    "Ingredient-1": "Any Wood",
+    "Ingredient-2": "Any Cutting Tool or  Bench Saw",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Wood Pulp",
+    "Ingredient-1": "Any Water Source",
+    "Ingredient-2": "Wood Chips",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Yarn",
+    "Ingredient-1": "Wool",
+    "Ingredient-2": "Wool",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": ""
+  },
+  {
+    "Result": "Poison weapon",
+    "Ingredient-1": "Weapon",
+    "Ingredient-2": "Any Poison Source, Ooze Barrel",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "Weapon deals X-X bonus poison damage based on item level"
+  },
+  {
+    "Result": "Eternal helmet",
+    "Ingredient-1": "Helmet",
+    "Ingredient-2": "Eternal Artefact",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "2 finesse, 1 huntsman, adds physical armor"
+  },
+  {
+    "Result": "Eternal armour",
+    "Ingredient-1": "Chest",
+    "Ingredient-2": "Eternal Artefact",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "10% air resistance, adds physical armor"
+  },
+  {
+    "Result": "Eternal belt",
+    "Ingredient-1": "Belt",
+    "Ingredient-2": "Eternal Artefact",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "2 strength, 1 warfare, adds physical armor"
+  },
+  {
+    "Result": "Eternal gloves",
+    "Ingredient-1": "Gloves",
+    "Ingredient-2": "Eternal Artefact",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "2 constitution, 10% earth resistance, adds physical armor"
+  },
+  {
+    "Result": "Eternal pants",
+    "Ingredient-1": "Leggings",
+    "Ingredient-2": "Eternal Artefact",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "1 polymorph, 10% air resistance, adds physical armor"
+  },
+  {
+    "Result": "Eternal boots",
+    "Ingredient-1": "Boots",
+    "Ingredient-2": "Eternal Artefact",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "1 thievery, 0.1 move points, adds physical armor"
+  },
+  {
+    "Result": "Eternal ring",
+    "Ingredient-1": "Ring",
+    "Ingredient-2": "Eternal Artefact",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "1 scoundrel"
+  },
+  {
+    "Result": "Eternal necklace",
+    "Ingredient-1": "Necklace",
+    "Ingredient-2": "Eternal Artefact",
+    "Ingredient-3": "",
+    "Ingredient-4": "",
+    "Ingredient-5": "",
+    "Description": "10% fire resistance, 2% critical chance, 5% dodging, adds physical armor"
+  }
+]
