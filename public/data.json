@@ -1728,15 +1728,6 @@
     "Description": ""
   },
   {
-    "Result": "-",
-    "Ingredient-1": "-",
-    "Ingredient-2": "-",
-    "Ingredient-3": "-",
-    "Ingredient-4": "",
-    "Ingredient-5": "",
-    "Description": ""
-  },
-  {
     "Result": "Medium Flame Rune",
     "Ingredient-1": "Small Flame Rune",
     "Ingredient-2": "Small Flame Rune",
@@ -1786,15 +1777,6 @@
     "Ingredient-1": "Small Venom Rune",
     "Ingredient-2": "Small Venom Rune",
     "Ingredient-3": "Pixie Dust",
-    "Ingredient-4": "",
-    "Ingredient-5": "",
-    "Description": ""
-  },
-  {
-    "Result": "-",
-    "Ingredient-1": "-",
-    "Ingredient-2": "-",
-    "Ingredient-3": "-",
     "Ingredient-4": "",
     "Ingredient-5": "",
     "Description": ""
@@ -1854,15 +1836,6 @@
     "Description": ""
   },
   {
-    "Result": "-",
-    "Ingredient-1": "-",
-    "Ingredient-2": "-",
-    "Ingredient-3": "-",
-    "Ingredient-4": "",
-    "Ingredient-5": "",
-    "Description": ""
-  },
-  {
     "Result": "Giant Flame Rune",
     "Ingredient-1": "Large Flame Rune",
     "Ingredient-2": "Large Flame Rune",
@@ -1917,15 +1890,6 @@
     "Description": ""
   },
   {
-    "Result": "-",
-    "Ingredient-1": "-",
-    "Ingredient-2": "-",
-    "Ingredient-3": "-",
-    "Ingredient-4": "",
-    "Ingredient-5": "",
-    "Description": ""
-  },
-  {
     "Result": "Small Flame Rune Of Power",
     "Ingredient-1": "Small Flame Rune",
     "Ingredient-2": "Rune Frame Of Power",
@@ -1957,15 +1921,6 @@
     "Ingredient-1": "Giant Flame Rune",
     "Ingredient-2": "Rune Frame Of Power",
     "Ingredient-3": "",
-    "Ingredient-4": "",
-    "Ingredient-5": "",
-    "Description": ""
-  },
-  {
-    "Result": "-",
-    "Ingredient-1": "-",
-    "Ingredient-2": "-",
-    "Ingredient-3": "-",
     "Ingredient-4": "",
     "Ingredient-5": "",
     "Description": ""
@@ -2007,15 +1962,6 @@
     "Description": ""
   },
   {
-    "Result": "-",
-    "Ingredient-1": "-",
-    "Ingredient-2": "-",
-    "Ingredient-3": "-",
-    "Ingredient-4": "",
-    "Ingredient-5": "",
-    "Description": ""
-  },
-  {
     "Result": "Small Thunder Rune Of Power",
     "Ingredient-1": "Small Thunder Rune",
     "Ingredient-2": "Rune Frame Of Power",
@@ -2047,15 +1993,6 @@
     "Ingredient-1": "Giant Thunder Rune",
     "Ingredient-2": "Rune Frame of Power",
     "Ingredient-3": "",
-    "Ingredient-4": "",
-    "Ingredient-5": "",
-    "Description": ""
-  },
-  {
-    "Result": "-",
-    "Ingredient-1": "-",
-    "Ingredient-2": "-",
-    "Ingredient-3": "-",
     "Ingredient-4": "",
     "Ingredient-5": "",
     "Description": ""
@@ -2097,15 +2034,6 @@
     "Description": ""
   },
   {
-    "Result": "-",
-    "Ingredient-1": "-",
-    "Ingredient-2": "-",
-    "Ingredient-3": "-",
-    "Ingredient-4": "",
-    "Ingredient-5": "",
-    "Description": ""
-  },
-  {
     "Result": "Small Venom Rune Of Power",
     "Ingredient-1": "Small Venom Rune",
     "Ingredient-2": "Rune Frame Of Power",
@@ -2142,15 +2070,6 @@
     "Description": ""
   },
   {
-    "Result": "-",
-    "Ingredient-1": "-",
-    "Ingredient-2": "-",
-    "Ingredient-3": "-",
-    "Ingredient-4": "",
-    "Ingredient-5": "",
-    "Description": ""
-  },
-  {
     "Result": "Small Masterwork Rune of Power",
     "Ingredient-1": "Small Masterwork Rune",
     "Ingredient-2": "Rune Frame of Power",
@@ -2182,15 +2101,6 @@
     "Ingredient-1": "Giant Masterwork Rune",
     "Ingredient-2": "Rune Frame of Power",
     "Ingredient-3": "",
-    "Ingredient-4": "",
-    "Ingredient-5": "",
-    "Description": ""
-  },
-  {
-    "Result": "-",
-    "Ingredient-1": "-",
-    "Ingredient-2": "-",
-    "Ingredient-3": "-",
     "Ingredient-4": "",
     "Ingredient-5": "",
     "Description": ""

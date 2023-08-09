@@ -22,17 +22,15 @@ export default {
     <thead>
     <tr>
       <th >Name</th>
+      <th >Ingredients</th>
       <th >Description</th>
-      <th >Ingredient</th>
-      <th >Ingredient</th>
-      <th >Ingredient</th>
-      <th >Ingredient</th>
-      <th >Ingredient</th>
     </tr>
     </thead>
     <tbody>
     <tr v-for="(recipe, index) in recipes" :key="index">
-     {{recipe}}
+      <td> {{recipe.result}}</td>
+      <td> {{recipe.ingredients}}</td>
+      <td> {{recipe.description}}</td>
     </tr>
     </tbody>
   </table>
