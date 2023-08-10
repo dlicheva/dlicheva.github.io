@@ -31,6 +31,7 @@ export default {
 }
 .recipe {
   border-radius: 4px;
+  border: 1px solid #cacaca;
   box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px;
   margin: 0 0 16px;
   background-color: white;
