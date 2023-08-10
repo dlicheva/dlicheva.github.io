@@ -1,10 +1,10 @@
 <template>
+  <Search v-model="searchTerm" v-on:update:modelValue="handleSearch"/>
+  <RecipeList :recipes="filteredData"/>
   <nav>
     <a href="https://store.steampowered.com/app/1086940/Baldurs_Gate_3/">Steam</a>
     <a href="https://baldursgate3.wiki.fextralife.com/">Wiki</a>
   </nav>
-  <Search v-model="searchTerm" v-on:update:modelValue="handleSearch"/>
-  <RecipeList :recipes="filteredData"/>
 </template>
 <script>
 import RecipeList from '../components/RecipeList.vue'
