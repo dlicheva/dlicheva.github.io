@@ -1,5 +1,5 @@
 async function fetchData() {
-    const res = await fetch("/data.json", {
+    const res = await fetch("/divinity.json", {
         method: 'get',
         headers: {
             'content-type': 'application/json'

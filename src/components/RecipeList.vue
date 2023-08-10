@@ -42,7 +42,7 @@ export default {
 
 h3 {
   margin: 0;
-  padding: 15px 15px 0;
+  padding: 8px 15px 0;
 }
 
 .description {
@@ -51,7 +51,7 @@ h3 {
 }
 
 .ingredients {
-  padding: 8px 15px 15px;
+  padding: 8px 15px 12px;
   list-style: none;
   margin: 0;
   border-top: 1px solid #cacaca;
@@ -63,7 +63,7 @@ h3 {
 @media only screen and (min-width: 600px) {
   .RecipeList {
     grid-template-columns: repeat(2, 1fr);
-    row-gap: 32px;
+    row-gap: 16px;
   }
 }
 @media only screen and (min-width: 1200px) {

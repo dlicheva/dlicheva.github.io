@@ -1,18 +1,10 @@
 <template>
   <header>
-    <h1>Divinity Original Sin 2</h1>
-    <nav>
-      <a href="https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/">Steam</a>
-      <a href="https://divinityoriginalsin2.wiki.fextralife.com/Divinity+Original+Sin+2+Wiki">Wiki</a>
-    </nav>
-    <h2>Crafting recipes</h2>
+    <h1>Crafting recipes</h1>
   </header>
   <main>
     <div v-if="loading">Loading...</div>
-    <template v-else>
-      <Search v-model="searchTerm" v-on:update:modelValue="handleSearch" />
-      <RecipeList :recipes="filteredData"/>
-    </template>
+    <Divinity v-else :filtered-data="filteredData" @search="handleSearch" />
   </main>
   <footer>
     Made by dlicheva in August 2023
@@ -20,13 +12,11 @@
 </template>
 <script>
 import fetchData from "./server.js";
-import RecipeList from './components/RecipeList.vue'
-import Search from './components/Search.vue'
+import Divinity from './pages/Divinity.vue'
 
 export default {
   components: {
-    RecipeList,
-    Search
+    Divinity,
   },
   data() {
     return {
@@ -51,7 +41,8 @@ export default {
           recipe.ingredients.find(ingredient => ingredient.toLowerCase().includes(term))
       )
     },
-    handleSearch() {
+    handleSearch(searchTerm) {
+      this.searchTerm = searchTerm
       if(this.searchTerm) this.filterData(this.searchTerm)
       else this.filteredData = this.data
     },
