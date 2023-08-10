@@ -8,9 +8,9 @@
           {{ ingredient }}
         </li>
       </ul>
-      <div v-if="recipe.unlocker" class="unlocker">
-        <p>{{ recipe.unlocker }} to unlock</p>
-      </div>
+<!--      <div v-if="recipe.unlocker" class="unlocker">-->
+<!--        <p>{{ recipe.unlocker }} to unlock</p>-->
+<!--      </div>-->
     </div>
   </div>
 </template>
