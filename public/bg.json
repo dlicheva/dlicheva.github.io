@@ -1,3 +1,602 @@
 [
-
+  {
+    "Result": "Elixir of the Colossus",
+    "Ingredient-1": "Chasm Creeper ",
+    "Ingredient-2": " Any Suspension",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Chasm Creeper",
+    "Description": "Drink to increase your size. Weapons deal an additional 1d4 damage. You gain Advantage on Strength Checks and saves. Replaces effects from other elixirs when drunk"
+  },
+  {
+    "Result": "Elixir of Silvanus",
+    "Ingredient-1": "Cauldron of Boiling Theriac",
+    "Ingredient-2": " Mugwort Bundle",
+    "Ingredient-3": "",
+    "Unlockers": "Read Halsin's Diary before meeting Nettie",
+    "Description": "Cure Nettie's Poison"
+  },
+  {
+    "Result": "Elixir of Arcane Cultivation",
+    "Ingredient-1": "Vitriol of Weavemoss",
+    "Ingredient-2": " Any sublimate",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Weavemoss",
+    "Description": "Gain an additional Level 1 spell slot. Replaces effects from other elixirs when drunk"
+  },
+  {
+    "Result": "Greater Elixir of Arcane Cultivation",
+    "Ingredient-1": "Suspension of Laculite",
+    "Ingredient-2": "Any Vitriol",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Laculite",
+    "Description": "Gain 2 additional Level 1 spell slot. Replaced effects from other elixirs when drunk"
+  },
+  {
+    "Result": "Elixir of Barkskin",
+    "Ingredient-1": "Salts of Tree Bark",
+    "Ingredient-2": "Any Suspension",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Wood Bark",
+    "Description": "Drink to increase your Armour Class to 16. Replaces effects from other elixirs when drunk"
+  },
+  {
+    "Result": "Elixir of Peerless Focus",
+    "Ingredient-1": "Sublimate of Belladona",
+    "Ingredient-2": "Any Ashes",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Belladona",
+    "Description": "Gain Advantage on Concentration saves.\nGain Advantage against the Charm effect.\nCan't be put to sleep"
+  },
+  {
+    "Result": "Elixir of Vigilance",
+    "Ingredient-1": "Sublimate of Bloodstained Hook",
+    "Ingredient-2": "Any Ashes",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Bloodstained Hook",
+    "Description": "Drink to gain a +5 bonus to Initiative. In addition, you can't be Surprised. Replaces effects from other elixirs when drunk"
+  },
+  {
+    "Result": "Elixir of Hill Giant Strength",
+    "Ingredient-1": "Ashes of Hill Giant Finger",
+    "Ingredient-2": "Any Sublimate",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Hill Giant Finger",
+    "Description": "Increases Strength ability score to 21 until Long Rest"
+  },
+  {
+    "Result": "Elixir of Bloodlust",
+    "Ingredient-1": "Ashes of Worg Fang",
+    "Ingredient-2": "Any Salt",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Worg Fang",
+    "Description": "Gain Bloodlust, kill an enemy to gain +5 temporary hit points and an extra action"
+  },
+  {
+    "Result": "Elixir of Fire Resistance",
+    "Ingredient-1": "Ashes of Dragon Egg Mushroom",
+    "Ingredient-2": "Any Salt",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Dragon Egg Mushroom",
+    "Description": "You gain Resistance to Fire damage, and can no longer Burn"
+  },
+  {
+    "Result": "Elixir of Poison Resistance",
+    "Ingredient-1": "Suspension of Muddy Goo",
+    "Ingredient-2": "Any Sublimate",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Muddy Goo",
+    "Description": "Gain Poison damage Resistance until next long rest"
+  },
+  {
+    "Result": "Elixir of Lightning Resistance",
+    "Ingredient-1": "Salts of Copper Shavings",
+    "Ingredient-2": "Any Suspension",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Copper Shavings",
+    "Description": "Gain Lightning damage Resistance until next long rest"
+  },
+  {
+    "Result": "Elixir of Universal Resistance",
+    "Ingredient-1": "Vitriol of Divine Miasma",
+    "Ingredient-2": "Any Sublimate",
+    "Ingredient-3": "",
+    "Unlockers": "",
+    "Description": "Gain Resistance to all damage"
+  },
+  {
+    "Result": "Elixir of Viciousness",
+    "Ingredient-1": "Vitriol of Shadowroot Sac",
+    "Ingredient-2": "Any Ashes",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Shadowroot Sac",
+    "Description": "Increases your chance to land a Critical Hit. Replaces effects front other elixirs when drunk"
+  },
+  {
+    "Result": "Tadpole Elixir",
+    "Ingredient-1": "Sublimate of Tongue of Madness",
+    "Ingredient-2": "Any Essence",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Tongue of Madness",
+    "Description": "Gain Psionic Weakening and Psionic Enrichment. Replaces effects from other elixirs when drunk"
+  },
+  {
+    "Result": "Potion of Healing",
+    "Ingredient-1": "Salts of Rogue's Morsel",
+    "Ingredient-2": "Any Suspension",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Rogue's Morsel",
+    "Description": "Recover 2d4 + 2 HP"
+  },
+  {
+    "Result": "Potion of Greater Healing",
+    "Ingredient-1": "Ashes of Balsam",
+    "Ingredient-2": "Any Salt",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Balsam",
+    "Description": "Recover 4d4 + 4 HP"
+  },
+  {
+    "Result": "Potion of Superior Healing",
+    "Ingredient-1": "Salts of Musk Creeper",
+    "Ingredient-2": "Any Suspension",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Musk Creeper",
+    "Description": "Heals and removes Burning.\n 8d4 + 8"
+  },
+  {
+    "Result": "Antidote",
+    "Ingredient-1": "Salts of Mugwort",
+    "Ingredient-2": "Any Suspension",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Mugwort",
+    "Description": "Neutralises the effects of all poisons"
+  },
+  {
+    "Result": "Potion of Feather Fall",
+    "Ingredient-1": "Sublimate of Autumn Crocus",
+    "Ingredient-2": "Any Essence",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Autumncrocus",
+    "Description": "Drink to slow your rate of descent during falls and gain Immunity to Falling damage"
+  },
+  {
+    "Result": "Potion of Glorious Vaulting",
+    "Ingredient-1": "Sublimate of Wispweed",
+    "Ingredient-2": "Any Ashes",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Wispweed",
+    "Description": "Drink this to triple your Jump distance"
+  },
+  {
+    "Result": "Potion of Mind Reading",
+    "Ingredient-1": "Suspension of Mergrass",
+    "Ingredient-2": "Any Sublimate",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Mergrass",
+    "Description": "Drink to probe into the minds of those around you. You will be able to read the thoughts of certain creatures while speaking with them"
+  },
+  {
+    "Result": "Potion of Speed",
+    "Ingredient-1": "Ashes of Hyena Ear",
+    "Ingredient-2": "Any Salt",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Hyena Ear",
+    "Description": "Gain Haste for 3 turns"
+  },
+  {
+    "Result": "Potion of Animal Speaking",
+    "Ingredient-1": "Essence of Accorn Truffle",
+    "Ingredient-2": "Any Salt",
+    "Ingredient-3": "",
+    "Unlockers": "",
+    "Description": "Gain the ability to comprehend and verbally communicate with beasts till your next long rest"
+  },
+  {
+    "Result": "Alchemist's Fire",
+    "Ingredient-1": "Ashes of Fire Amber",
+    "Ingredient-2": "Any Salt",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Fire Amber",
+    "Description": "Deals 1d4 Damage Per turn to any creature it hits"
+  },
+  {
+    "Result": "Web Grenade",
+    "Ingredient-1": "Suspension of Spider Silk",
+    "Ingredient-2": "Any Vitriol",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Spider Silk",
+    "Description": "To be added"
+  },
+  {
+    "Result": "Fungal Bamboozler",
+    "Ingredient-1": "Essence of Timmask Spores",
+    "Ingredient-2": "Any Salt",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Timmask Spores",
+    "Description": "Lob this vaporous dccoction to Befuddle nearby foes"
+  },
+  {
+    "Result": "Hearthlight Bomb",
+    "Ingredient-1": "Essence of Nightlight",
+    "Ingredient-2": "Any Suspension",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Nightlight Frond",
+    "Description": "Bathe a nearby area in light.\n Illuminates 9m radius"
+  },
+  {
+    "Result": "Noxious Spore Grenade",
+    "Ingredient-1": "Sublimate of Poison Spores",
+    "Ingredient-2": "Any Ashes",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Poison Spores",
+    "Description": "Explodes into a virulent cloud that can inflect Noxious Fumes upon creatures within"
+  },
+  {
+    "Result": "Basic Poison",
+    "Ingredient-1": "Vitriol of Bonecap",
+    "Ingredient-2": "Any Ashes",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Bonecap",
+    "Description": "Coat weapon.\nTargets must succeed a Constitution Saving Throw or become Poisoned"
+  },
+  {
+    "Result": "Drow Poison",
+    "Ingredient-1": "Essence of Swarming Toadstool",
+    "Ingredient-2": "Any Salt",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Swarming Toadstool",
+    "Description": "Coat your active weapon with poison. Targets must succeed a Constitution Saving Throw or become Poisoned and fall Asleep.\nMelee"
+  },
+  {
+    "Result": "Oil of Accuracy",
+    "Ingredient-1": "Ashes of Daggerroot",
+    "Ingredient-2": "Any Salt",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Daggerroot",
+    "Description": "Coat Weapon\nBonus of +2 in Attack Rolls"
+  },
+  {
+    "Result": "Oil of Bane",
+    "Ingredient-1": "Vitriol of Putrefied Tumour",
+    "Ingredient-2": "Any Sublimate",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Putrefied Tumour",
+    "Description": "To be Added"
+  },
+  {
+    "Result": "Oil of Diminution",
+    "Ingredient-1": "Essence of Sylvan Stone",
+    "Ingredient-2": "Any Suspension",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Sylvan Stone",
+    "Description": "Targets must throw CON Save, if they fail they gain Strength Disadvantage and 1d4 melee damage reduction"
+  },
+  {
+    "Result": "Serpent Fang Toxin",
+    "Ingredient-1": "Suspension of Snake Venom",
+    "Ingredient-2": "Any Vitriol",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Snake Venom",
+    "Description": "To be Added"
+  },
+  {
+    "Result": "Diluted Oil of Sharpness",
+    "Ingredient-1": "Sublimate of Viridian Crystal",
+    "Ingredient-2": "Any Salt",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Viridian Crystal",
+    "Description": "Bludgeoning, Slashing or Piercing Resistance is ignored for your weapon, gaining +1 on Attack Rolls and Damage Rolls"
+  },
+  {
+    "Result": "Oil of Combustion",
+    "Ingredient-1": "Ashes of Mephit",
+    "Ingredient-2": "Any essence",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Mephit",
+    "Description": "Inflicts \"Oil\" on hit, lasts 2 turns.\nDeal any fire effect to oiled enemies in order to cause 4d4+4 fire damage on them and their surrounding enemies"
+  },
+  {
+    "Result": "Malice",
+    "Ingredient-1": "Vitriol of Loth’s Candle",
+    "Ingredient-2": "Any Ashes",
+    "Ingredient-3": "",
+    "Unlockers": "",
+    "Description": "Coat Weapons, target must pass a CON Save or gain Blinded and Poisoned"
+  },
+  {
+    "Result": "Simple Toxin",
+    "Ingredient-1": "Suspension of Bullywug Trumpet",
+    "Ingredient-2": "Any Sublimate",
+    "Ingredient-3": "",
+    "Unlockers": "",
+    "Description": "Grants an additional 1d4 Poison Damage to weapons"
+  },
+  {
+    "Result": "Thisobald's Brewed-Up Bellyglummer",
+    "Ingredient-1": "Salts of Corpse Rose",
+    "Ingredient-2": "Any Suspension",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Corpse Rose",
+    "Description": "Coat Weapons, target must pass a DC17 CON Save or gain Poisoned and take 1d6 Poison Damage at the end of each of their turns"
+  },
+  {
+    "Result": "Wizardsbane Oil",
+    "Ingredient-1": "Essence of Gremishka Tail",
+    "Ingredient-2": "Any Suspension",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Gremishka Tail",
+    "Description": "Coat your weapon in oil. Its targets receive a -3 penalty to Spell Attack Rolls and Spell Save DC, and Disadvantage on Saving Throws for maintaining Concentration for 2 turns"
+  },
+  {
+    "Result": "Sublimate of Autumn Crocus",
+    "Ingredient-1": "Autumncrocus x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Autumncrocus",
+    "Description": "The airily sweet mist makes you light- headed, feeling like you could reach for the sun"
+  },
+  {
+    "Result": "Sublimate of Belladonna",
+    "Ingredient-1": "Belladonna x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Belladonna",
+    "Description": "In this transmogrifled state, Belladonna loses its toxic properties, gaining instead an engrossing, perception-enhancing characteristic"
+  },
+  {
+    "Result": "Sublimate of Tongue of Madness",
+    "Ingredient-1": "Tongue of Madness x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Tongue of Madness",
+    "Description": "The suffusion of psionics through the nervous system is generally a slow, perhaps even generational process, as the gith and duergar might well attest to"
+  },
+  {
+    "Result": "Sublimate of Wispweed",
+    "Ingredient-1": "Wispweed x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Wispweed",
+    "Description": "Get the strands wet and you can almost hear the lovelorn sobs"
+  },
+  {
+    "Result": "Salts of Chasm Creeper",
+    "Ingredient-1": "Chasm Creeper x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Chasm Creeper",
+    "Description": "The lonely tenacity of the Chasm Creeper might go some way to explaining its alchemical properties - strength like that could be useful when harnessed"
+  },
+  {
+    "Result": "Salts of Corpse Rose",
+    "Ingredient-1": "Corpse Rose x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Corpse Rose",
+    "Description": "Once plucked from the chest cavity of a recent corpse, this flower was dried and mixed with rare salts to enhance its alchemical properties"
+  },
+  {
+    "Result": "Salts of Mugwort",
+    "Ingredient-1": "Mugwort x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Mugwort",
+    "Description": "The roots of the common mngwort weed can be dried and crushed to create a powder that looks unassuming, but is full of potential"
+  },
+  {
+    "Result": "Salts of Musk Creeper",
+    "Ingredient-1": "Yellow Musk Creeper Petals x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Yellow Musk Creeper Petals",
+    "Description": "While alive, yellow musk creepers feed on humanoid corpses, turning them into zombies, but in the hands of a skilled alchemist, their petals can be used for good"
+  },
+  {
+    "Result": "Salts of Rogue's Morsel",
+    "Ingredient-1": "Rogue's Morsel x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Rogue's Morsel",
+    "Description": "Created using the dried gills of the rogue's morsel mushroom, this powder smells surprisingly sweet"
+  },
+  {
+    "Result": "Salts of Tree Bark",
+    "Ingredient-1": "Wood Bark x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Wood Bark",
+    "Description": "Unlike malignant blights, wood waads are created to fulfil a specific purpose. Considering the brutality of the ceremony by which they are made, the derived elixir will doubtless make one hardy and staunch as bark"
+  },
+  {
+    "Result": "Essence of Crystalline Lens",
+    "Ingredient-1": "Crystalline Lens x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Crystalline Lens",
+    "Description": "When held up to moonlight the lens scents to shift, as if its glass core reacts to the scant light of evening"
+  },
+  {
+    "Result": "Essence of Nightlight",
+    "Ingredient-1": "Nightlight Frond x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Nightlight Frond",
+    "Description": "In his troubled Underdark days, the draw with the heart of gold, Drizzt Do'Urden, often purified nightlight to draw out its luminance. By its light his face was pensive, thoughtful, and too-wise"
+  },
+  {
+    "Result": "Essence of Swarming Toadstool",
+    "Ingredient-1": "Swarming Toadstool x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Swarming Toadstool",
+    "Description": "Cheerfully dancing motes of bioluminescence, reduced to their fundamental matter"
+  },
+  {
+    "Result": "Essence of Sylvan Stone",
+    "Ingredient-1": "Sylvan Stone x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Sylvan Stone",
+    "Description": "The belief that the Feywild is a dreamy plane of whimsical adventure is folly. The occasional rainbow-coloured glint from this substance could as easily evoke a treacherous oil slick"
+  },
+  {
+    "Result": "Essence of Timmask Spores",
+    "Ingredient-1": "Timmask Spores x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Timmask Spores",
+    "Description": "The chaotic fugue of Timmask-induced confusion is in many ways the exact opposite of Myconid meditation, which is calm, spiritual, and does not involve even a little bit ofpuzzled drooling"
+  },
+  {
+    "Result": "Ashes of Balsam",
+    "Ingredient-1": "Balsam x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Balsam",
+    "Description": "Since balsam thrives on high mountaintops, the petals of this spindly flower can be carried for miles on a strong wind"
+  },
+  {
+    "Result": "Ashes of Daggerroot",
+    "Ingredient-1": "Daggerroot x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Daggerroot",
+    "Description": "Often fed with the blood of the fallen, daggerroot is said to help create new victims - a property that only intensifies once the plant has been dried and burned"
+  },
+  {
+    "Result": "Ashes of Dragon Egg Mushroom",
+    "Ingredient-1": "Dragon Egg Mushroom x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Dragon Egg Mushroom",
+    "Description": "It's unclear whether the beautiful patterns on these mushrooms are the result of magic or nature, but the fungus is often sought out by smiths, who mix it into a paste to prevent hunts"
+  },
+  {
+    "Result": "Vitriol of Bonecap",
+    "Ingredient-1": "Bonecap x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Bonecap",
+    "Description": "Bonecaps are found growing upon burial mounds; their alchemical properties are flavoured with proximal death"
+  },
+  {
+    "Result": "Vitriol of Lolth‘s Candle",
+    "Ingredient-1": "Lolth's Candle x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Lolth's Candle",
+    "Description": "No surprise that Lolth's Candles lead travellers in the Underdark, given that their namesake is a goddess of deceit as well as spiders and shadows. Worse, distilled, they even blind and poison the unwary"
+  },
+  {
+    "Result": "Vitriol of Oleander",
+    "Ingredient-1": "Black Oleander x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Black Oleander",
+    "Description": "The sap's dark colour, viscous consistency, and cloying sweetness belie its beneficial potential"
+  },
+  {
+    "Result": "Vitriol of Putrefied Tumour",
+    "Ingredient-1": "Putrefied Tumour x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Putrefied Tumour",
+    "Description": "The stench of this rotten flesh has only worsened during its journey through the alchemical process"
+  },
+  {
+    "Result": "Vitriol of Shadowroot Sac",
+    "Ingredient-1": "Shadowroot Sac x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Shadowroot Sac",
+    "Description": "A cloying sweetness rises from the secretion. lt simultaneously sharpens your senses and makes bile rise in your throat"
+  },
+  {
+    "Result": "Vitriol of Weavemoss",
+    "Ingredient-1": "Weavemoss x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Extract Weavemoss",
+    "Description": "Small parts of Weave stick to this foul- smelling paste, imperceptible to any but the most attuned spellcasters"
+  },
+  {
+    "Result": "Suspension of Bullywug Trumpet",
+    "Ingredient-1": "Bullywug Trumpet x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Bullywug Trumpet",
+    "Description": "Even the slightest sniff of this acidic tincture makes your eyes sting"
+  },
+  {
+    "Result": "Suspension of Laculite",
+    "Ingredient-1": "Laculite x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Laculite",
+    "Description": "Crushed Laculitefloats at the bottom of this tincture, infusing the water with the Underdark's mysterious energies"
+  },
+  {
+    "Result": "Suspension of Mergrass",
+    "Ingredient-1": "Mergrass x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Mergrass",
+    "Description": "Touching a little of the substance to your lips, you begin to hear muffled pulses of sound - daubs of thoughts belonging to those nearby"
+  },
+  {
+    "Result": "Solution of Night Orchid",
+    "Ingredient-1": "Night Orchid x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Night Orchid",
+    "Description": "This liquid solution has the colour of evening"
+  },
+  {
+    "Result": "Suspension of Spider Silk",
+    "Ingredient-1": "Silk Gland x3",
+    "Ingredient-2": "",
+    "Ingredient-3": "",
+    "Unlockers": "Silk Gland",
+    "Description": "Once, there were songs of Ettercaps and spiders that warded children away from dangerous woods - but songs are forgotten, children wander, and when the silken threads turn out to be stickier than first presumed, their small noises of surprise are abruptly silenced"
+  },
+  {
+    "Result": "Visions of the Absolute",
+    "Ingredient-1": "Shaft of a Broken Spear",
+    "Ingredient-2": "Head of a Broken Spear",
+    "Ingredient-3": "",
+    "Unlockers": "",
+    "Description": "Absolute Night: Chance to Blind target. Deals an additional 2d6 Piercing damage to certain creatures that sport multiple sets of eyes.\n Equip item in main hand to gain:\n Rush Attack Action"
+  },
+  {
+    "Result": "Sussur Dagger",
+    "Ingredient-1": "Sussur Tree Bark",
+    "Ingredient-2": "Dagger",
+    "Ingredient-3": "",
+    "Unlockers": "",
+    "Description": "Weapon Enchantment +1\n Equip item in main hand to gain:\n Piercing Strike Action"
+  },
+  {
+    "Result": "Sussur Sickle",
+    "Ingredient-1": "Sussur Tree Bark",
+    "Ingredient-2": "Sickle",
+    "Ingredient-3": "",
+    "Unlockers": "",
+    "Description": "Weapon Enchantment +1\n Equip item in main hand to gain:\n Lacerate Action"
+  },
+  {
+    "Result": "Sussur Greatsword",
+    "Ingredient-1": "Sussur Tree Bark",
+    "Ingredient-2": "Greatsword",
+    "Ingredient-3": "",
+    "Unlockers": "",
+    "Description": "Weapon Enchantment +1\n Pommel Strike Action\nLacerate Action\nCleave Action"
+  },
+  {
+    "Result": "Mourning Frost",
+    "Ingredient-1": "Icy Crystal",
+    "Ingredient-2": "Icy Metal",
+    "Ingredient-3": "Icy Helve",
+    "Unlockers": "",
+    "Description": "Topple Action\n Heart of Ice: When a spell or Cantrip on an enemy, inflict Frostbite for 1 turn"
+  }
 ]

@@ -4,8 +4,8 @@
   </header>
   <main>
     <div class="tabs">
-      <h2 class="tab" :class="{active: activeTab === 'divinity'}" @click="handleTabClick('divinity')">Divinity</h2>
-      <h2 class="tab" :class="{active: activeTab === 'bg'}" @click="handleTabClick('bg')">Baldur's Gate</h2>
+      <h2 :class="{active: activeTab === 'divinity'}" class="tab" @click="handleTabClick('divinity')">Divinity</h2>
+      <h2 :class="{active: activeTab === 'bg'}" class="tab" @click="handleTabClick('bg')">Baldur's Gate</h2>
     </div>
     <div v-if="loading">Loading...</div>
     <template v-else>
@@ -33,7 +33,7 @@ export default {
       filteredData: [],
       loading: false,
       searchTerm: '',
-      activeTab: 'divinity'
+      activeTab: 'bg'
     }
   },
   methods: {
@@ -45,10 +45,8 @@ export default {
     },
     filterData(searchTerm) {
       const term = searchTerm.toLowerCase()
-
-      this.filteredData = this.data.filter(recipe =>
-          recipe.result.toLowerCase().includes(term) ||
-          recipe.ingredients.find(ingredient => ingredient.toLowerCase().includes(term))
+      this.filteredData = this.data.filter(recipe => recipe.result.toLowerCase().includes(term) ||
+          recipe.ingredients?.find(ingredient => ingredient.toLowerCase().includes(term))
       )
     },
     handleSearch(searchTerm) {

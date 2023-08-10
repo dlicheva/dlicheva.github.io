@@ -1,15 +1,18 @@
 <template>
-<div class="RecipeList">
+  <div class="RecipeList">
     <div v-for="(recipe, index) in recipes" :key="index" class="recipe">
-      <h3> {{recipe.result}}</h3>
-      <span class="description"> {{recipe.description}}</span>
+      <h3> {{ recipe.result }}</h3>
+      <span class="description"> {{ recipe.description }}</span>
       <ul class="ingredients">
         <li v-for="(ingredient, j) in recipe.ingredients" :key="j">
-          1 ⨯ {{ingredient}}
+          {{ ingredient }}
         </li>
       </ul>
+      <div v-if="recipe.unlocker" class="unlocker">
+        <p>{{ recipe.unlocker }} to unlock</p>
+      </div>
     </div>
-</div>
+  </div>
 </template>
 <script>
 export default {
@@ -29,6 +32,7 @@ export default {
   grid-gap: 16px;
   width: 100%;
 }
+
 .recipe {
   border-radius: 4px;
   border: 1px solid #cacaca;
@@ -50,11 +54,19 @@ h3 {
   padding: 0 15px 8px;
 }
 
+.unlocker {
+  display: block;
+  padding: 0 15px 8px;
+  color: #239429;
+  border-top: 1px solid #cacaca;
+}
+
 .ingredients {
   padding: 8px 15px 12px;
   list-style: none;
   margin: 0;
   border-top: 1px solid #cacaca;
+
   li {
     display: block;
   }
@@ -66,6 +78,7 @@ h3 {
     row-gap: 16px;
   }
 }
+
 @media only screen and (min-width: 1200px) {
   .RecipeList {
     grid-template-columns: repeat(3, 1fr);

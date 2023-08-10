@@ -24,10 +24,11 @@ async function fetchData(game) {
 
         // assign ingredients to array
         let ingredients = [recipe['Ingredient-1'],recipe['Ingredient-2'], recipe['Ingredient-3'], recipe['Ingredient-4'], recipe['Ingredient-5']]
-        ingredients = ingredients.filter(ingredient => ingredient !== "")
+        ingredients = ingredients.filter(ingredient => !!ingredient)
         return {
                 result: recipe['Result'],
                 description: recipe['Description'],
+                unlocker: recipe['Unlockers'],
                 ingredients: ingredients
             }
     })
