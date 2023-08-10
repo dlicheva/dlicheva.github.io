@@ -3,8 +3,15 @@
     <h1>Crafting recipes</h1>
   </header>
   <main>
+    <div class="tabs">
+      <h2 class="tab" :class="{active: activeTab === 'divinity'}" @click="handleTabClick('divinity')">Divinity</h2>
+      <h2 class="tab" :class="{active: activeTab === 'bg'}" @click="handleTabClick('bg')">Baldur's Gate</h2>
+    </div>
     <div v-if="loading">Loading...</div>
-    <Divinity v-else :filtered-data="filteredData" @search="handleSearch" />
+    <template v-else>
+      <Divinity v-if="activeTab === 'divinity'" :filtered-data="filteredData" @search="handleSearch"/>
+      <BaldursGate v-if="activeTab === 'bg'" :filtered-data="filteredData" @search="handleSearch"/>
+    </template>
   </main>
   <footer>
     Made by dlicheva in August 2023
@@ -13,9 +20,11 @@
 <script>
 import fetchData from "./server.js";
 import Divinity from './pages/Divinity.vue'
+import BaldursGate from './pages/BaldursGate.vue'
 
 export default {
   components: {
+    BaldursGate,
     Divinity,
   },
   data() {
@@ -24,12 +33,13 @@ export default {
       filteredData: [],
       loading: false,
       searchTerm: '',
+      activeTab: 'divinity'
     }
   },
   methods: {
     async getData() {
       this.loading = true
-      this.data = await fetchData()
+      this.data = await fetchData(this.activeTab)
       this.filteredData = this.data
       this.loading = false
     },
@@ -43,9 +53,13 @@ export default {
     },
     handleSearch(searchTerm) {
       this.searchTerm = searchTerm
-      if(this.searchTerm) this.filterData(this.searchTerm)
+      if (this.searchTerm) this.filterData(this.searchTerm)
       else this.filteredData = this.data
     },
+    handleTabClick(tab) {
+      this.activeTab = tab
+      this.getData()
+    }
   },
   mounted() {
     this.getData()
@@ -53,11 +67,36 @@ export default {
 }
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 main {
   max-width: 1200px;
   width: calc(100% - 32px);
   margin: 0 auto;
   padding: 0 16px;
 }
+
+.tabs {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.tab {
+  opacity: 0.3;
+  font-size: 1em;
+  margin-top: 0;
+  transition: all linear 0.2s;
+
+  &.active {
+    text-decoration: underline;
+    text-underline-position: under;
+    opacity: 1;
+  }
+
+  &:hover {
+    opacity: 0.9;
+    cursor: pointer;
+  }
+}
+
 </style>

@@ -1,10 +1,22 @@
-async function fetchData() {
-    const res = await fetch("/divinity.json", {
-        method: 'get',
-        headers: {
-            'content-type': 'application/json'
-        }
-    });
+async function fetchData(game) {
+    let res
+    if(game === 'divinity') {
+        res = await fetch("/divinity.json", {
+            method: 'get',
+            headers: {
+                'content-type': 'application/json'
+            }
+        });
+    }
+    if(game === 'bg') {
+        res = await fetch("/bg.json", {
+            method: 'get',
+            headers: {
+                'content-type': 'application/json'
+            }
+        });
+    }
+
     let recipes = await res.json()
     recipes = recipes.filter((recipe)=> recipe["Ingredient-1"] !=="N/A")
    // reformat result

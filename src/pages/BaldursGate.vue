@@ -1,7 +1,7 @@
 <template>
   <nav>
-    <a href="https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/">Steam</a>
-    <a href="https://divinityoriginalsin2.wiki.fextralife.com/Divinity+Original+Sin+2+Wiki">Wiki</a>
+    <a href="https://store.steampowered.com/app/1086940/Baldurs_Gate_3/">Steam</a>
+    <a href="https://baldursgate3.wiki.fextralife.com/">Wiki</a>
   </nav>
   <Search v-model="searchTerm" v-on:update:modelValue="handleSearch"/>
   <RecipeList :recipes="filteredData"/>
@@ -11,7 +11,7 @@ import RecipeList from '../components/RecipeList.vue'
 import Search from '../components/Search.vue'
 
 export default {
-  name: 'Divinity',
+  name: 'BaldursGate',
   components: {
     RecipeList,
     Search
